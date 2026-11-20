@@ -1,0 +1,1801 @@
+8.9423 	INFO 	Loaded monitor calibration from ['2026_08_24 21:08']
+9.1541 	INFO 	Using renderer 'Intel(R) Iris(R) Xe Graphics' for graphics
+9.1541 	INFO 	OpenGL version supported by driver is 4..
+9.1830 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001BDB0F93AF0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001BDB0F93B50>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001BDA8B9EBF0>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(448.0), np.float64(156.0)], screen=0, size=array([1024,  768]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.1830 	EXP 	window1: backgroundImage = ''
+9.1830 	EXP 	window1: backgroundFit = 'none'
+9.4707 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+9.4708 	EXP 	window1: recordFrameIntervals = False
+9.6365 	EXP 	window1: recordFrameIntervals = True
+11.3033 	EXP 	window1: recordFrameIntervals = False
+11.3034 	EXP 	Screen (0) actual frame rate measured at 59.78Hz
+11.3530 	INFO 	keyboard.Keyboard is using ptb backend.
+11.3531 	EXP 	intentional binding: status = STARTED
+11.3581 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.3600 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([-1.    ,  0.0039, -1.    ]), fillColorSpace='rgb', fillRGB=array([-1.    ,  0.0039, -1.    ]), interpolate=True, lineColor=array([-1.    ,  0.0039, -1.    ]), lineColorSpace='rgb', lineRGB=array([-1.    ,  0.0039, -1.    ]), lineWidth=1.0, name='polygon_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.4886 	INFO 	Loaded psychtoolbox audio version 3.0.22.754581917
+11.7170 	WARNING 	No default speaker specified in Preferences / Hardware, using first speaker found: Speaker (Realtek(R) Audio)
+12.0536 	INFO 	Created stream for speaker device: Speaker (Realtek(R) Audio) (4.0)
+12.0546 	EXP 	sound_1: sampleRate = 48000
+12.0546 	EXP 	sound_1: channels = None
+12.0551 	EXP 	Sound sound_1 set volume 1.000
+12.1280 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0118 	EXP 	textbox: autoLog = True
+0.0178 	EXP 	Imported C:/Users/Navya/OneDrive/Desktop/Lab in Psych/intentional binding/IB_Cons.xlsx as conditions, 12 conditions, 3 params
+0.0184 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'delay': 0.7, 'freq': 400, 'Condition': 'unexp', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0271 	EXP 	polygon: autoDraw = True
+1.0115 	INFO 	Keyboard events cleared
+1.0113 	EXP 	polygon_2: autoDraw = True
+1.0278 	EXP 	polygon: autoDraw = False
+8.3199 	EXP 	Device response: <KeyPress from None: t=8.29790380000486, value=lwindows, duration=None>
+8.3206 	DATA 	Keypress: lwindows
+9.1438 	EXP 	Device response: <KeyPress from None: t=8.29790380000486, value=lwindows, duration=0.8411814999999478>
+11.0935 	EXP 	Device response: <KeyPress from None: t=11.077884300000733, value=space, duration=None>
+11.0955 	DATA 	Keypress: space
+11.1093 	EXP 	polygon: autoDraw = False
+11.1093 	EXP 	polygon_2: autoDraw = False
+11.2429 	EXP 	Device response: <KeyPress from None: t=11.077884300000733, value=space, duration=0.1581581000064034>
+11.7765 	EXP 	Sound sound_1 reached end of file
+11.7929 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+12.0901 	EXP 	Sound sound_1 stopped
+12.1084 	EXP 	text: autoDraw = True
+12.1084 	EXP 	textbox: autoDraw = True
+15.2620 	DATA 	Keypress: 2
+15.2764 	EXP 	Device response: <KeyPress from None: t=15.26124280001386, value=2, duration=None>
+15.4094 	EXP 	Device response: <KeyPress from None: t=15.26124280001386, value=2, duration=0.13860169998952188>
+15.5790 	DATA 	Keypress: 0
+15.5924 	EXP 	Device response: <KeyPress from None: t=15.578224700002465, value=0, duration=None>
+15.6762 	EXP 	Device response: <KeyPress from None: t=15.578224700002465, value=0, duration=0.09031980001600459>
+15.7755 	DATA 	Keypress: 0
+15.7768 	EXP 	Device response: <KeyPress from None: t=15.76256669999566, value=0, duration=None>
+15.8590 	EXP 	Device response: <KeyPress from None: t=15.76256669999566, value=0, duration=0.08765370000037365>
+16.9588 	DATA 	Mouse: Left button down, pos=(525,153)
+16.9598 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+16.9753 	EXP 	text: autoDraw = False
+16.9753 	EXP 	textbox: autoDraw = False
+16.9753 	EXP 	polygon: autoDraw = True
+17.1768 	DATA 	Mouse:  Left button up, pos=(525,153)
+17.9596 	INFO 	Keyboard events cleared
+17.9594 	EXP 	polygon_2: autoDraw = True
+17.9752 	EXP 	polygon: autoDraw = False
+18.9925 	EXP 	Device response: <KeyPress from None: t=18.98681740000029, value=space, duration=None>
+18.9943 	DATA 	Keypress: space
+19.0081 	EXP 	polygon: autoDraw = False
+19.0081 	EXP 	polygon_2: autoDraw = False
+19.0758 	EXP 	Sound sound_1 reached end of file
+19.0922 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+19.0925 	EXP 	Device response: <KeyPress from None: t=18.98681740000029, value=space, duration=0.09844980001798831>
+19.3900 	EXP 	Sound sound_1 stopped
+19.4073 	EXP 	text: autoDraw = True
+19.4073 	EXP 	textbox: autoDraw = True
+22.8434 	DATA 	Keypress: 1
+22.8583 	EXP 	Device response: <KeyPress from None: t=22.84100660000695, value=1, duration=None>
+22.9908 	EXP 	Device response: <KeyPress from None: t=22.84100660000695, value=1, duration=0.1366281000082381>
+23.7744 	DATA 	Keypress: 5
+23.7798 	EXP 	Device response: <KeyPress from None: t=23.768823999998858, value=5, duration=None>
+23.8417 	EXP 	Device response: <KeyPress from None: t=23.768823999998858, value=5, duration=0.06008460000157356>
+24.1943 	DATA 	Keypress: 0
+24.2078 	EXP 	Device response: <KeyPress from None: t=24.19379089999711, value=0, duration=None>
+24.2745 	EXP 	Device response: <KeyPress from None: t=24.19379089999711, value=0, duration=0.07354120002128184>
+25.2407 	DATA 	Mouse: Left button down, pos=(543,162)
+25.2412 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+25.2570 	EXP 	text: autoDraw = False
+25.2570 	EXP 	textbox: autoDraw = False
+25.2570 	EXP 	polygon: autoDraw = True
+25.4591 	DATA 	Mouse:  Left button up, pos=(543,162)
+26.2401 	INFO 	Keyboard events cleared
+26.2400 	EXP 	polygon_2: autoDraw = True
+26.2571 	EXP 	polygon: autoDraw = False
+26.4574 	DATA 	Mouse: Left button down, pos=(543,162)
+26.6758 	DATA 	Mouse:  Left button up, pos=(543,162)
+26.9251 	EXP 	Device response: <KeyPress from None: t=26.919121600018116, value=space, duration=None>
+26.9270 	DATA 	Keypress: space
+26.9414 	EXP 	polygon: autoDraw = False
+26.9414 	EXP 	polygon_2: autoDraw = False
+27.1082 	EXP 	Device response: <KeyPress from None: t=26.919121600018116, value=space, duration=0.18202439998276532>
+27.3245 	EXP 	Sound sound_1 reached end of file
+27.3409 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+27.6429 	EXP 	Sound sound_1 stopped
+27.6564 	EXP 	text: autoDraw = True
+27.6564 	EXP 	textbox: autoDraw = True
+30.1597 	DATA 	Keypress: 3
+30.1736 	EXP 	Device response: <KeyPress from None: t=30.15748690001783, value=3, duration=None>
+30.3076 	EXP 	Device response: <KeyPress from None: t=30.15748690001783, value=3, duration=0.14744339999742806>
+30.4899 	DATA 	Keypress: 0
+30.4915 	EXP 	Device response: <KeyPress from None: t=30.487505700002657, value=0, duration=None>
+30.5582 	EXP 	Device response: <KeyPress from None: t=30.487505700002657, value=0, duration=0.06973310001194477>
+30.6900 	DATA 	Keypress: 0
+30.6912 	EXP 	Device response: <KeyPress from None: t=30.681050600018352, value=0, duration=None>
+30.7734 	EXP 	Device response: <KeyPress from None: t=30.681050600018352, value=0, duration=0.07615969999460503>
+32.2233 	DATA 	Keypress: backspace
+32.2247 	EXP 	Device response: <KeyPress from None: t=32.21636429999489, value=backspace, duration=None>
+32.3070 	EXP 	Device response: <KeyPress from None: t=32.21636429999489, value=backspace, duration=0.0842135000275448>
+32.4107 	DATA 	Keypress: backspace
+32.4232 	EXP 	Device response: <KeyPress from None: t=32.40917610001634, value=backspace, duration=None>
+32.4898 	EXP 	Device response: <KeyPress from None: t=32.40917610001634, value=backspace, duration=0.07043560000602156>
+32.5731 	DATA 	Keypress: backspace
+32.5745 	EXP 	Device response: <KeyPress from None: t=32.566340599994874, value=backspace, duration=None>
+32.6564 	EXP 	Device response: <KeyPress from None: t=32.566340599994874, value=backspace, duration=0.07517910000751726>
+33.1064 	DATA 	Keypress: 1
+33.1091 	EXP 	Device response: <KeyPress from None: t=33.10303769999882, value=1, duration=None>
+33.1579 	EXP 	Device response: <KeyPress from None: t=33.10303769999882, value=1, duration=0.04934150000917725>
+33.5729 	DATA 	Keypress: 5
+33.5743 	EXP 	Device response: <KeyPress from None: t=33.571174700016854, value=5, duration=None>
+33.6416 	EXP 	Device response: <KeyPress from None: t=33.571174700016854, value=5, duration=0.06884160000481643>
+34.2072 	DATA 	Keypress: 0
+34.2102 	EXP 	Device response: <KeyPress from None: t=34.20379050000338, value=0, duration=None>
+34.2908 	EXP 	Device response: <KeyPress from None: t=34.20379050000338, value=0, duration=0.07514729999820702>
+34.5567 	DATA 	Keypress: space
+34.5589 	EXP 	Device response: <KeyPress from None: t=34.554612200008705, value=space, duration=None>
+34.6237 	EXP 	Device response: <KeyPress from None: t=34.554612200008705, value=space, duration=0.06264940000255592>
+36.2728 	DATA 	Mouse: Left button down, pos=(503,145)
+36.2732 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'delay': 0.4, 'freq': 400, 'Condition': 'unexp', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+36.2892 	EXP 	text: autoDraw = False
+36.2892 	EXP 	textbox: autoDraw = False
+36.2892 	EXP 	polygon: autoDraw = True
+36.4912 	DATA 	Mouse:  Left button up, pos=(503,145)
+37.2725 	INFO 	Keyboard events cleared
+37.2724 	EXP 	polygon_2: autoDraw = True
+37.2891 	EXP 	polygon: autoDraw = False
+39.7737 	EXP 	Device response: <KeyPress from None: t=39.77192880000803, value=space, duration=None>
+39.7749 	DATA 	Keypress: space
+39.7883 	EXP 	polygon: autoDraw = False
+39.7883 	EXP 	polygon_2: autoDraw = False
+39.9232 	EXP 	Device response: <KeyPress from None: t=39.77192880000803, value=space, duration=0.1438229999912437>
+40.1729 	EXP 	Sound sound_1 reached end of file
+40.1892 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+40.4892 	EXP 	Sound sound_1 stopped
+40.5046 	EXP 	text: autoDraw = True
+40.5046 	EXP 	textbox: autoDraw = True
+43.5885 	DATA 	Keypress: 4
+43.5930 	EXP 	Device response: <KeyPress from None: t=43.577670900005614, value=4, duration=None>
+43.7384 	EXP 	Device response: <KeyPress from None: t=43.577670900005614, value=4, duration=0.14796299999579787>
+43.9380 	DATA 	Keypress: 0
+43.9398 	EXP 	Device response: <KeyPress from None: t=43.93557650002185, value=0, duration=None>
+44.0382 	EXP 	Device response: <KeyPress from None: t=43.93557650002185, value=0, duration=0.08821329998318106>
+44.1396 	DATA 	Keypress: 0
+44.1414 	EXP 	Device response: <KeyPress from None: t=44.130668500001775, value=0, duration=None>
+44.2228 	EXP 	Device response: <KeyPress from None: t=44.130668500001775, value=0, duration=0.08651480000116862>
+45.1718 	DATA 	Mouse: Left button down, pos=(507,174)
+45.1722 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'delay': 0.1, 'freq': 400, 'Condition': 'unexp', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+45.1876 	EXP 	text: autoDraw = False
+45.1876 	EXP 	textbox: autoDraw = False
+45.1876 	EXP 	polygon: autoDraw = True
+45.4066 	DATA 	Mouse:  Left button up, pos=(507,174)
+46.1720 	INFO 	Keyboard events cleared
+46.1718 	EXP 	polygon_2: autoDraw = True
+46.1890 	EXP 	polygon: autoDraw = False
+46.9391 	EXP 	Device response: <KeyPress from None: t=46.92737479999778, value=space, duration=None>
+46.9405 	DATA 	Keypress: space
+46.9548 	EXP 	polygon: autoDraw = False
+46.9548 	EXP 	polygon_2: autoDraw = False
+47.0220 	EXP 	Sound sound_1 reached end of file
+47.0384 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+47.1209 	EXP 	Device response: <KeyPress from None: t=46.92737479999778, value=space, duration=0.1891345000185538>
+47.3323 	EXP 	Sound sound_1 stopped
+47.3539 	EXP 	text: autoDraw = True
+47.3539 	EXP 	textbox: autoDraw = True
+50.2713 	DATA 	Keypress: 4
+50.2731 	EXP 	Device response: <KeyPress from None: t=50.26462190001621, value=4, duration=None>
+50.4048 	EXP 	Device response: <KeyPress from None: t=50.26462190001621, value=4, duration=0.1269417000003159>
+50.4719 	DATA 	Keypress: 0
+50.4732 	EXP 	Device response: <KeyPress from None: t=50.46907419999479, value=0, duration=None>
+50.5707 	EXP 	Device response: <KeyPress from None: t=50.46907419999479, value=0, duration=0.08822380000492558>
+50.6708 	DATA 	Keypress: 0
+50.6721 	EXP 	Device response: <KeyPress from None: t=50.66846830002032, value=0, duration=None>
+50.7711 	EXP 	Device response: <KeyPress from None: t=50.66846830002032, value=0, duration=0.09317829998326488>
+52.4871 	DATA 	Mouse: Left button down, pos=(507,174)
+52.4875 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+52.5033 	EXP 	text: autoDraw = False
+52.5033 	EXP 	textbox: autoDraw = False
+52.5033 	EXP 	polygon: autoDraw = True
+52.7206 	DATA 	Mouse:  Left button up, pos=(507,174)
+53.5032 	INFO 	Keyboard events cleared
+53.5031 	EXP 	polygon: autoDraw = False
+53.5031 	EXP 	polygon_2: autoDraw = True
+55.0863 	EXP 	Device response: <KeyPress from None: t=55.084992899995996, value=space, duration=None>
+55.0872 	DATA 	Keypress: space
+55.1028 	EXP 	polygon: autoDraw = False
+55.1028 	EXP 	polygon_2: autoDraw = False
+55.1695 	EXP 	Sound sound_1 reached end of file
+55.1860 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+55.3032 	EXP 	Device response: <KeyPress from None: t=55.084992899995996, value=space, duration=0.2093728000181727>
+55.4794 	EXP 	Sound sound_1 stopped
+55.5025 	EXP 	text: autoDraw = True
+55.5025 	EXP 	textbox: autoDraw = True
+57.6949 	DATA 	Keypress: 1
+57.7029 	EXP 	Device response: <KeyPress from None: t=57.6944393000158, value=1, duration=None>
+57.8702 	EXP 	Device response: <KeyPress from None: t=57.6944393000158, value=1, duration=0.16909829998621717>
+57.9867 	DATA 	Keypress: 0
+57.9883 	EXP 	Device response: <KeyPress from None: t=57.98632160000852, value=0, duration=None>
+58.0704 	EXP 	Device response: <KeyPress from None: t=57.98632160000852, value=0, duration=0.0831944000092335>
+58.2038 	DATA 	Keypress: 0
+58.2068 	EXP 	Device response: <KeyPress from None: t=58.192516800016165, value=0, duration=None>
+58.2867 	EXP 	Device response: <KeyPress from None: t=58.192516800016165, value=0, duration=0.08807599998544902>
+58.5032 	DATA 	Keypress: 0
+58.5056 	EXP 	Device response: <KeyPress from None: t=58.49258400002145, value=0, duration=None>
+58.5699 	EXP 	Device response: <KeyPress from None: t=58.49258400002145, value=0, duration=0.07660409997333772>
+60.1406 	DATA 	Keypress: backspace
+60.1531 	EXP 	Device response: <KeyPress from None: t=60.139709100010805, value=backspace, duration=None>
+60.2368 	EXP 	Device response: <KeyPress from None: t=60.139709100010805, value=backspace, duration=0.08702869998523965>
+60.3867 	DATA 	Keypress: backspace
+60.3886 	EXP 	Device response: <KeyPress from None: t=60.37648259999696, value=backspace, duration=None>
+60.4702 	EXP 	Device response: <KeyPress from None: t=60.37648259999696, value=backspace, duration=0.08299460000125691>
+60.7869 	DATA 	Keypress: backspace
+60.7896 	EXP 	Device response: <KeyPress from None: t=60.776237400015816, value=backspace, duration=None>
+60.8536 	EXP 	Device response: <KeyPress from None: t=60.776237400015816, value=backspace, duration=0.07547330000670627>
+61.3532 	DATA 	Keypress: backspace
+61.3559 	EXP 	Device response: <KeyPress from None: t=61.3487825000193, value=backspace, duration=None>
+61.4860 	EXP 	Device response: <KeyPress from None: t=61.3487825000193, value=backspace, duration=0.12114760000258684>
+61.9230 	DATA 	Keypress: 5
+61.9363 	EXP 	Device response: <KeyPress from None: t=61.92149320000317, value=5, duration=None>
+62.0694 	EXP 	Device response: <KeyPress from None: t=61.92149320000317, value=5, duration=0.13387170000351034>
+62.1196 	DATA 	Keypress: 0
+62.1209 	EXP 	Device response: <KeyPress from None: t=62.11590080001042, value=0, duration=None>
+62.2031 	EXP 	Device response: <KeyPress from None: t=62.11590080001042, value=0, duration=0.08000650000758469>
+62.8521 	DATA 	Keypress: 0
+62.8534 	EXP 	Device response: <KeyPress from None: t=62.83943320001708, value=0, duration=None>
+62.9855 	EXP 	Device response: <KeyPress from None: t=62.83943320001708, value=0, duration=0.13874419999774545>
+63.8693 	DATA 	Mouse: Left button down, pos=(507,174)
+63.8697 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+63.8857 	EXP 	text: autoDraw = False
+63.8857 	EXP 	textbox: autoDraw = False
+63.8857 	EXP 	polygon: autoDraw = True
+64.1045 	DATA 	Mouse:  Left button up, pos=(507,174)
+64.8866 	INFO 	Keyboard events cleared
+64.8865 	EXP 	polygon: autoDraw = False
+64.8865 	EXP 	polygon_2: autoDraw = True
+65.3697 	EXP 	Device response: <KeyPress from None: t=65.3668364000041, value=space, duration=None>
+65.3715 	DATA 	Keypress: space
+65.3865 	EXP 	polygon: autoDraw = False
+65.3865 	EXP 	polygon_2: autoDraw = False
+65.5705 	EXP 	Device response: <KeyPress from None: t=65.3668364000041, value=space, duration=0.20216750001418404>
+65.7532 	EXP 	Sound sound_1 reached end of file
+65.7695 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+66.0726 	EXP 	Sound sound_1 stopped
+66.0846 	EXP 	text: autoDraw = True
+66.0846 	EXP 	textbox: autoDraw = True
+67.7563 	DATA 	Keypress: 1
+67.7683 	EXP 	Device response: <KeyPress from None: t=67.75576450000517, value=1, duration=None>
+67.9683 	EXP 	Device response: <KeyPress from None: t=67.75576450000517, value=1, duration=0.1962669999920763>
+68.9013 	DATA 	Keypress: 5
+68.9026 	EXP 	Device response: <KeyPress from None: t=68.8981277999992, value=5, duration=None>
+69.0516 	EXP 	Device response: <KeyPress from None: t=68.8981277999992, value=5, duration=0.1509589000197593>
+69.1016 	DATA 	Keypress: 0
+69.1029 	EXP 	Device response: <KeyPress from None: t=69.0999570999993, value=0, duration=None>
+69.2182 	EXP 	Device response: <KeyPress from None: t=69.0999570999993, value=0, duration=0.11103030000231229>
+70.2522 	DATA 	Mouse: Left button down, pos=(507,160)
+70.2528 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+70.2681 	EXP 	text: autoDraw = False
+70.2681 	EXP 	textbox: autoDraw = False
+70.2681 	EXP 	polygon: autoDraw = True
+70.4867 	DATA 	Mouse:  Left button up, pos=(507,160)
+71.2517 	INFO 	Keyboard events cleared
+71.2516 	EXP 	polygon_2: autoDraw = True
+71.2682 	EXP 	polygon: autoDraw = False
+71.9022 	EXP 	Device response: <KeyPress from None: t=71.89648700001999, value=space, duration=None>
+71.9039 	DATA 	Keypress: space
+71.9185 	EXP 	polygon: autoDraw = False
+71.9185 	EXP 	polygon_2: autoDraw = False
+72.0857 	EXP 	Device response: <KeyPress from None: t=71.89648700001999, value=space, duration=0.17754049997893162>
+72.5854 	EXP 	Sound sound_1 reached end of file
+72.6018 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+72.8995 	EXP 	Sound sound_1 stopped
+72.9171 	EXP 	text: autoDraw = True
+72.9171 	EXP 	textbox: autoDraw = True
+73.7180 	DATA 	Keypress: 1
+73.7191 	EXP 	Device response: <KeyPress from None: t=73.71074249999947, value=1, duration=None>
+73.8848 	EXP 	Device response: <KeyPress from None: t=73.71074249999947, value=1, duration=0.16738329999498092>
+74.2511 	DATA 	Keypress: 5
+74.2523 	EXP 	Device response: <KeyPress from None: t=74.24668880001991, value=5, duration=None>
+74.4012 	EXP 	Device response: <KeyPress from None: t=74.24668880001991, value=5, duration=0.1418749000004027>
+74.4842 	DATA 	Keypress: 0
+74.4854 	EXP 	Device response: <KeyPress from None: t=74.47182790000807, value=0, duration=None>
+74.5862 	EXP 	Device response: <KeyPress from None: t=74.47182790000807, value=0, duration=0.10496530000818893>
+77.6677 	DATA 	Mouse: Left button down, pos=(524,159)
+77.6682 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+77.6841 	EXP 	text: autoDraw = False
+77.6841 	EXP 	textbox: autoDraw = False
+77.6841 	EXP 	polygon: autoDraw = True
+77.8859 	DATA 	Mouse:  Left button up, pos=(524,159)
+78.6682 	INFO 	Keyboard events cleared
+78.6681 	EXP 	polygon_2: autoDraw = True
+78.6845 	EXP 	polygon: autoDraw = False
+79.4670 	EXP 	Device response: <KeyPress from None: t=79.45871500001522, value=space, duration=None>
+79.4679 	DATA 	Keypress: space
+79.4835 	EXP 	polygon: autoDraw = False
+79.4835 	EXP 	polygon_2: autoDraw = False
+79.6680 	EXP 	Device response: <KeyPress from None: t=79.45871500001522, value=space, duration=0.19334749999688938>
+80.1512 	EXP 	Sound sound_1 reached end of file
+80.1676 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+80.4613 	EXP 	Sound sound_1 stopped
+80.4825 	EXP 	text: autoDraw = True
+80.4825 	EXP 	textbox: autoDraw = True
+81.3833 	DATA 	Keypress: 3
+81.3845 	EXP 	Device response: <KeyPress from None: t=81.37498390002293, value=3, duration=None>
+81.5341 	EXP 	Device response: <KeyPress from None: t=81.37498390002293, value=3, duration=0.15085009997710586>
+82.2004 	DATA 	Keypress: backspace
+82.2015 	EXP 	Device response: <KeyPress from None: t=82.19475900000543, value=backspace, duration=None>
+82.3833 	EXP 	Device response: <KeyPress from None: t=82.19475900000543, value=backspace, duration=0.17340160001185723>
+82.6502 	DATA 	Keypress: 6
+82.6640 	EXP 	Device response: <KeyPress from None: t=82.64464519999456, value=6, duration=None>
+82.8345 	EXP 	Device response: <KeyPress from None: t=82.64464519999456, value=6, duration=0.17889170002308674>
+82.8503 	DATA 	Keypress: 0
+82.8522 	EXP 	Device response: <KeyPress from None: t=82.84262830001535, value=0, duration=None>
+82.9348 	EXP 	Device response: <KeyPress from None: t=82.84262830001535, value=0, duration=0.08404419998987578>
+83.0500 	DATA 	Keypress: 0
+83.0513 	EXP 	Device response: <KeyPress from None: t=83.04832090000855, value=0, duration=None>
+83.1333 	EXP 	Device response: <KeyPress from None: t=83.04832090000855, value=0, duration=0.07363379999878816>
+85.2698 	DATA 	Mouse: Left button down, pos=(530,171)
+85.2832 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+85.2997 	EXP 	text: autoDraw = False
+85.2997 	EXP 	textbox: autoDraw = False
+85.2997 	EXP 	polygon: autoDraw = True
+85.5017 	DATA 	Mouse:  Left button up, pos=(530,171)
+86.2835 	INFO 	Keyboard events cleared
+86.2834 	EXP 	polygon_2: autoDraw = True
+86.3003 	EXP 	polygon: autoDraw = False
+86.9839 	EXP 	Device response: <KeyPress from None: t=86.98320250000688, value=space, duration=None>
+86.9858 	DATA 	Keypress: space
+86.9999 	EXP 	polygon: autoDraw = False
+86.9999 	EXP 	polygon_2: autoDraw = False
+87.1842 	EXP 	Device response: <KeyPress from None: t=86.98320250000688, value=space, duration=0.2000187000085134>
+87.3673 	EXP 	Sound sound_1 reached end of file
+87.3837 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+87.6830 	EXP 	Sound sound_1 stopped
+87.6986 	EXP 	text: autoDraw = True
+87.6986 	EXP 	textbox: autoDraw = True
+89.0329 	DATA 	Keypress: 4
+89.0356 	EXP 	Device response: <KeyPress from None: t=89.02394000001368, value=4, duration=None>
+89.1674 	EXP 	Device response: <KeyPress from None: t=89.02394000001368, value=4, duration=0.13833250000607222>
+89.4539 	DATA 	Keypress: 0
+89.4656 	EXP 	Device response: <KeyPress from None: t=89.45261360000586, value=0, duration=None>
+89.5168 	EXP 	Device response: <KeyPress from None: t=89.45261360000586, value=0, duration=0.060154000006150454>
+89.6327 	DATA 	Keypress: 0
+89.6344 	EXP 	Device response: <KeyPress from None: t=89.62764390002121, value=0, duration=None>
+89.7160 	EXP 	Device response: <KeyPress from None: t=89.62764390002121, value=0, duration=0.07893199997488409>
+91.8497 	DATA 	Mouse: Left button down, pos=(460,154)
+91.8502 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+91.8654 	EXP 	text: autoDraw = False
+91.8654 	EXP 	textbox: autoDraw = False
+91.8654 	EXP 	polygon: autoDraw = True
+92.0671 	DATA 	Mouse:  Left button up, pos=(460,154)
+92.8495 	INFO 	Keyboard events cleared
+92.8493 	EXP 	polygon_2: autoDraw = True
+92.8662 	EXP 	polygon: autoDraw = False
+94.0329 	EXP 	Device response: <KeyPress from None: t=94.02461399999447, value=space, duration=None>
+94.0347 	DATA 	Keypress: space
+94.0493 	EXP 	polygon: autoDraw = False
+94.0493 	EXP 	polygon_2: autoDraw = False
+94.2165 	EXP 	Device response: <KeyPress from None: t=94.02461399999447, value=space, duration=0.18916610002634116>
+94.7161 	EXP 	Sound sound_1 reached end of file
+94.7325 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+95.0327 	EXP 	Sound sound_1 stopped
+95.0475 	EXP 	text: autoDraw = True
+95.0475 	EXP 	textbox: autoDraw = True
+96.1384 	DATA 	Keypress: 7
+96.1649 	EXP 	Device response: <KeyPress from None: t=96.13696380000329, value=7, duration=None>
+96.2989 	EXP 	Device response: <KeyPress from None: t=96.13696380000329, value=7, duration=0.1533703000168316>
+96.4819 	DATA 	Keypress: 0
+96.4836 	EXP 	Device response: <KeyPress from None: t=96.47964460001094, value=0, duration=None>
+96.5657 	EXP 	Device response: <KeyPress from None: t=96.47964460001094, value=0, duration=0.07621969998581335>
+96.6819 	DATA 	Keypress: 0
+96.6848 	EXP 	Device response: <KeyPress from None: t=96.67263509999611, value=0, duration=None>
+96.7487 	EXP 	Device response: <KeyPress from None: t=96.67263509999611, value=0, duration=0.07306850000168197>
+98.5652 	DATA 	Mouse: Left button down, pos=(499,162)
+98.5657 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+98.5821 	EXP 	text: autoDraw = False
+98.5821 	EXP 	textbox: autoDraw = False
+98.5821 	EXP 	polygon: autoDraw = True
+98.8001 	DATA 	Mouse:  Left button up, pos=(499,162)
+99.5656 	INFO 	Keyboard events cleared
+99.5654 	EXP 	polygon_2: autoDraw = True
+99.5817 	EXP 	polygon: autoDraw = False
+100.1318 	EXP 	Device response: <KeyPress from None: t=100.12130290002096, value=space, duration=None>
+100.1336 	DATA 	Keypress: space
+100.1481 	EXP 	polygon: autoDraw = False
+100.1481 	EXP 	polygon_2: autoDraw = False
+100.2154 	EXP 	Sound sound_1 reached end of file
+100.2318 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+100.2820 	EXP 	Device response: <KeyPress from None: t=100.12130290002096, value=space, duration=0.1449358999961987>
+100.5345 	EXP 	Sound sound_1 stopped
+100.5468 	EXP 	text: autoDraw = True
+100.5468 	EXP 	textbox: autoDraw = True
+102.7309 	DATA 	Keypress: 3
+102.7324 	EXP 	Device response: <KeyPress from None: t=102.72642290001386, value=3, duration=None>
+102.8474 	EXP 	Device response: <KeyPress from None: t=102.72642290001386, value=3, duration=0.10565509999287315>
+102.8976 	DATA 	Keypress: 0
+102.8998 	EXP 	Device response: <KeyPress from None: t=102.8899109000049, value=0, duration=None>
+103.0146 	EXP 	Device response: <KeyPress from None: t=102.8899109000049, value=0, duration=0.11601709999376908>
+103.1475 	DATA 	Keypress: 0
+103.1493 	EXP 	Device response: <KeyPress from None: t=103.13662920001661, value=0, duration=None>
+103.2309 	EXP 	Device response: <KeyPress from None: t=103.13662920001661, value=0, duration=0.0830794999783393>
+104.4475 	DATA 	Mouse: Left button down, pos=(508,151)
+104.4479 	EXP 	New trial (rep=1, index=0): <Trial 12 (0 in rep 1) data={'delay': 0.4, 'freq': 400, 'Condition': 'unexp', 'thisN': 12, 'thisTrialN': 0, 'thisRepN': 1}>
+104.4643 	EXP 	text: autoDraw = False
+104.4643 	EXP 	textbox: autoDraw = False
+104.4643 	EXP 	polygon: autoDraw = True
+104.6825 	DATA 	Mouse:  Left button up, pos=(508,151)
+105.4480 	INFO 	Keyboard events cleared
+105.4479 	EXP 	polygon_2: autoDraw = True
+105.4644 	EXP 	polygon: autoDraw = False
+105.8323 	EXP 	Device response: <KeyPress from None: t=105.83061560001806, value=space, duration=None>
+105.8342 	DATA 	Keypress: space
+105.8475 	EXP 	polygon: autoDraw = False
+105.8475 	EXP 	polygon_2: autoDraw = False
+105.9982 	EXP 	Device response: <KeyPress from None: t=105.83061560001806, value=space, duration=0.16264589998172596>
+106.2313 	EXP 	Sound sound_1 reached end of file
+106.2477 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+106.5416 	EXP 	Sound sound_1 stopped
+106.5628 	EXP 	text: autoDraw = True
+106.5628 	EXP 	textbox: autoDraw = True
+108.2470 	DATA 	Keypress: 7
+108.2482 	EXP 	Device response: <KeyPress from None: t=108.23641500002122, value=7, duration=None>
+108.3471 	EXP 	Device response: <KeyPress from None: t=108.23641500002122, value=7, duration=0.1064050999993924>
+108.5471 	DATA 	Keypress: 0
+108.5490 	EXP 	Device response: <KeyPress from None: t=108.53708900001948, value=0, duration=None>
+108.6475 	EXP 	Device response: <KeyPress from None: t=108.53708900001948, value=0, duration=0.0980684999958612>
+108.7482 	DATA 	Keypress: 0
+108.7631 	EXP 	Device response: <KeyPress from None: t=108.74751670000842, value=0, duration=None>
+108.8302 	EXP 	Device response: <KeyPress from None: t=108.74751670000842, value=0, duration=0.07409040001221001>
+109.5130 	DATA 	Keypress: backspace
+109.5150 	EXP 	Device response: <KeyPress from None: t=109.50286750000669, value=backspace, duration=None>
+109.5980 	EXP 	Device response: <KeyPress from None: t=109.50286750000669, value=backspace, duration=0.08275289999437518>
+109.7131 	DATA 	Keypress: backspace
+109.7143 	EXP 	Device response: <KeyPress from None: t=109.69998850001139, value=backspace, duration=None>
+109.7802 	EXP 	Device response: <KeyPress from None: t=109.69998850001139, value=backspace, duration=0.07324599998537451>
+109.8810 	DATA 	Keypress: backspace
+109.8820 	EXP 	Device response: <KeyPress from None: t=109.87797160001355, value=backspace, duration=None>
+109.9471 	EXP 	Device response: <KeyPress from None: t=109.87797160001355, value=backspace, duration=0.0581557999830693>
+110.7470 	DATA 	Keypress: 2
+110.7494 	EXP 	Device response: <KeyPress from None: t=110.7453186000057, value=2, duration=None>
+110.8801 	EXP 	Device response: <KeyPress from None: t=110.7453186000057, value=2, duration=0.12146900000516325>
+111.2493 	DATA 	Keypress: 5
+111.2633 	EXP 	Device response: <KeyPress from None: t=111.24804370000493, value=5, duration=None>
+111.3297 	EXP 	Device response: <KeyPress from None: t=111.24804370000493, value=5, duration=0.06453150001470931>
+111.7302 	DATA 	Keypress: 0
+111.7319 	EXP 	Device response: <KeyPress from None: t=111.71937940001953, value=0, duration=None>
+111.7968 	EXP 	Device response: <KeyPress from None: t=111.71937940001953, value=0, duration=0.06877479999093339>
+112.6468 	DATA 	Mouse: Left button down, pos=(508,151)
+112.6472 	EXP 	New trial (rep=1, index=1): <Trial 13 (1 in rep 1) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 13, 'thisTrialN': 1, 'thisRepN': 1}>
+112.6626 	EXP 	text: autoDraw = False
+112.6626 	EXP 	textbox: autoDraw = False
+112.6626 	EXP 	polygon: autoDraw = True
+112.8647 	DATA 	Mouse:  Left button up, pos=(508,151)
+113.6468 	INFO 	Keyboard events cleared
+113.6467 	EXP 	polygon_2: autoDraw = True
+113.6631 	EXP 	polygon: autoDraw = False
+115.6135 	EXP 	Device response: <KeyPress from None: t=115.59850789999473, value=space, duration=None>
+115.6153 	DATA 	Keypress: space
+115.6296 	EXP 	polygon: autoDraw = False
+115.6296 	EXP 	polygon_2: autoDraw = False
+115.7800 	EXP 	Device response: <KeyPress from None: t=115.59850789999473, value=space, duration=0.1661974000162445>
+115.9966 	EXP 	Sound sound_1 reached end of file
+116.0130 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+116.3110 	EXP 	Sound sound_1 stopped
+116.3281 	EXP 	text: autoDraw = True
+116.3281 	EXP 	textbox: autoDraw = True
+117.3659 	DATA 	Keypress: 1
+117.3789 	EXP 	Device response: <KeyPress from None: t=117.36437520000618, value=1, duration=None>
+117.5295 	EXP 	Device response: <KeyPress from None: t=117.36437520000618, value=1, duration=0.15861199999926612>
+117.8962 	DATA 	Keypress: 0
+117.8984 	EXP 	Device response: <KeyPress from None: t=117.88326020000386, value=0, duration=None>
+117.9624 	EXP 	Device response: <KeyPress from None: t=117.88326020000386, value=0, duration=0.06616760001634248>
+118.0795 	DATA 	Keypress: 0
+118.0816 	EXP 	Device response: <KeyPress from None: t=118.0747018000111, value=0, duration=None>
+118.1459 	EXP 	Device response: <KeyPress from None: t=118.0747018000111, value=0, duration=0.06278569999267347>
+119.3795 	DATA 	Mouse: Left button down, pos=(508,151)
+119.3799 	EXP 	New trial (rep=1, index=2): <Trial 14 (2 in rep 1) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 14, 'thisTrialN': 2, 'thisRepN': 1}>
+119.3949 	EXP 	text: autoDraw = False
+119.3949 	EXP 	textbox: autoDraw = False
+119.3949 	EXP 	polygon: autoDraw = True
+119.5973 	DATA 	Mouse:  Left button up, pos=(508,151)
+120.3793 	INFO 	Keyboard events cleared
+120.3792 	EXP 	polygon_2: autoDraw = True
+120.3960 	EXP 	polygon: autoDraw = False
+120.8296 	EXP 	Device response: <KeyPress from None: t=120.82406189999892, value=space, duration=None>
+120.8313 	DATA 	Keypress: space
+120.8454 	EXP 	polygon: autoDraw = False
+120.8454 	EXP 	polygon_2: autoDraw = False
+120.9961 	EXP 	Device response: <KeyPress from None: t=120.82406189999892, value=space, duration=0.1558365000237245>
+121.2126 	EXP 	Sound sound_1 reached end of file
+121.2289 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+121.5316 	EXP 	Sound sound_1 stopped
+121.5442 	EXP 	text: autoDraw = True
+121.5442 	EXP 	textbox: autoDraw = True
+123.0113 	DATA 	Keypress: 2
+123.0124 	EXP 	Device response: <KeyPress from None: t=123.01099010001053, value=2, duration=None>
+123.1620 	EXP 	Device response: <KeyPress from None: t=123.01099010001053, value=2, duration=0.13749659998575225>
+123.8946 	DATA 	Keypress: 5
+123.8958 	EXP 	Device response: <KeyPress from None: t=123.89266310000676, value=5, duration=None>
+124.0451 	EXP 	Device response: <KeyPress from None: t=123.89266310000676, value=5, duration=0.14272050000727177>
+124.0473 	DATA 	Keypress: 0
+124.0614 	EXP 	Device response: <KeyPress from None: t=124.04617760001565, value=0, duration=None>
+124.2452 	DATA 	Keypress: comma
+124.2503 	EXP 	Device response: <KeyPress from None: t=124.23601860000053, value=comma, duration=None>
+124.2621 	EXP 	Device response: <KeyPress from None: t=124.04617760001565, value=0, duration=0.2087654999922961>
+124.3114 	EXP 	Device response: <KeyPress from None: t=124.23601860000053, value=comma, duration=0.06355620000977069>
+125.1615 	DATA 	Keypress: backspace
+125.1639 	EXP 	Device response: <KeyPress from None: t=125.15125600001193, value=backspace, duration=None>
+125.2445 	EXP 	Device response: <KeyPress from None: t=125.15125600001193, value=backspace, duration=0.07704040000680834>
+125.8445 	DATA 	Mouse: Left button down, pos=(508,151)
+125.8450 	EXP 	New trial (rep=1, index=3): <Trial 15 (3 in rep 1) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 15, 'thisTrialN': 3, 'thisRepN': 1}>
+125.8611 	EXP 	text: autoDraw = False
+125.8611 	EXP 	textbox: autoDraw = False
+125.8611 	EXP 	polygon: autoDraw = True
+126.0630 	DATA 	Mouse:  Left button up, pos=(508,151)
+126.8453 	INFO 	Keyboard events cleared
+126.8451 	EXP 	polygon_2: autoDraw = True
+126.8614 	EXP 	polygon: autoDraw = False
+128.4451 	EXP 	Device response: <KeyPress from None: t=128.42951610000455, value=space, duration=None>
+128.4470 	DATA 	Keypress: space
+128.4608 	EXP 	polygon: autoDraw = False
+128.4608 	EXP 	polygon_2: autoDraw = False
+128.5284 	EXP 	Sound sound_1 reached end of file
+128.5448 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+128.5604 	EXP 	Device response: <KeyPress from None: t=128.42951610000455, value=space, duration=0.1307739999901969>
+128.8400 	EXP 	Sound sound_1 stopped
+128.8599 	EXP 	text: autoDraw = True
+128.8599 	EXP 	textbox: autoDraw = True
+129.8609 	DATA 	Keypress: 3
+129.8626 	EXP 	Device response: <KeyPress from None: t=129.85880810001981, value=3, duration=None>
+129.9950 	EXP 	Device response: <KeyPress from None: t=129.85880810001981, value=3, duration=0.13180770000326447>
+130.0780 	DATA 	Keypress: 0
+130.0800 	EXP 	Device response: <KeyPress from None: t=130.06940390000818, value=0, duration=None>
+130.1623 	EXP 	Device response: <KeyPress from None: t=130.06940390000818, value=0, duration=0.08303479998721741>
+130.2610 	DATA 	Keypress: 0
+130.2639 	EXP 	Device response: <KeyPress from None: t=130.2587002000073, value=0, duration=None>
+130.3437 	EXP 	Device response: <KeyPress from None: t=130.2587002000073, value=0, duration=0.07093869999516755>
+132.4608 	DATA 	Mouse: Left button down, pos=(508,151)
+132.4614 	EXP 	New trial (rep=1, index=4): <Trial 16 (4 in rep 1) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 16, 'thisTrialN': 4, 'thisRepN': 1}>
+132.4778 	EXP 	text: autoDraw = False
+132.4778 	EXP 	textbox: autoDraw = False
+132.4778 	EXP 	polygon: autoDraw = True
+132.6955 	DATA 	Mouse:  Left button up, pos=(508,151)
+133.4611 	INFO 	Keyboard events cleared
+133.4609 	EXP 	polygon_2: autoDraw = True
+133.4774 	EXP 	polygon: autoDraw = False
+134.3113 	EXP 	Device response: <KeyPress from None: t=134.30183500002022, value=space, duration=None>
+134.3132 	DATA 	Keypress: space
+134.3271 	EXP 	polygon: autoDraw = False
+134.3271 	EXP 	polygon_2: autoDraw = False
+134.4263 	EXP 	Device response: <KeyPress from None: t=134.30183500002022, value=space, duration=0.12109829997643828>
+134.9942 	EXP 	Sound sound_1 reached end of file
+135.0105 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+135.3108 	EXP 	Sound sound_1 stopped
+135.3260 	EXP 	text: autoDraw = True
+135.3260 	EXP 	textbox: autoDraw = True
+136.7135 	DATA 	Keypress: 5
+136.7274 	EXP 	Device response: <KeyPress from None: t=136.71081859999686, value=5, duration=None>
+136.8441 	EXP 	Device response: <KeyPress from None: t=136.71081859999686, value=5, duration=0.12192860001232475>
+137.0607 	DATA 	Keypress: 0
+137.0622 	EXP 	Device response: <KeyPress from None: t=137.05986790001043, value=0, duration=None>
+137.1435 	EXP 	Device response: <KeyPress from None: t=137.05986790001043, value=0, duration=0.08118079998530447>
+137.2597 	DATA 	Keypress: 0
+137.2609 	EXP 	Device response: <KeyPress from None: t=137.2512890000071, value=0, duration=None>
+137.3441 	EXP 	Device response: <KeyPress from None: t=137.2512890000071, value=0, duration=0.08747309999307618>
+139.4264 	DATA 	Mouse: Left button down, pos=(517,175)
+139.4268 	EXP 	New trial (rep=1, index=5): <Trial 17 (5 in rep 1) data={'delay': 0.7, 'freq': 400, 'Condition': 'unexp', 'thisN': 17, 'thisTrialN': 5, 'thisRepN': 1}>
+139.4433 	EXP 	text: autoDraw = False
+139.4433 	EXP 	textbox: autoDraw = False
+139.4433 	EXP 	polygon: autoDraw = True
+139.6445 	DATA 	Mouse:  Left button up, pos=(517,175)
+140.4268 	INFO 	Keyboard events cleared
+140.4267 	EXP 	polygon_2: autoDraw = True
+140.4433 	EXP 	polygon: autoDraw = False
+141.0432 	EXP 	Device response: <KeyPress from None: t=141.03471090001403, value=space, duration=None>
+141.0449 	DATA 	Keypress: space
+141.0595 	EXP 	polygon: autoDraw = False
+141.0595 	EXP 	polygon_2: autoDraw = False
+141.2100 	EXP 	Device response: <KeyPress from None: t=141.03471090001403, value=space, duration=0.1602044999890495>
+141.7270 	EXP 	Sound sound_1 reached end of file
+141.7433 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+142.0411 	EXP 	Sound sound_1 stopped
+142.0583 	EXP 	text: autoDraw = True
+142.0583 	EXP 	textbox: autoDraw = True
+143.6593 	DATA 	Keypress: 8
+143.6650 	EXP 	Device response: <KeyPress from None: t=143.6554851999972, value=8, duration=None>
+143.7755 	EXP 	Device response: <KeyPress from None: t=143.6554851999972, value=8, duration=0.11381020001135767>
+143.8921 	DATA 	Keypress: 0
+143.8932 	EXP 	Device response: <KeyPress from None: t=143.87926620000508, value=0, duration=None>
+143.9759 	EXP 	Device response: <KeyPress from None: t=143.87926620000508, value=0, duration=0.0874525000108406>
+144.0754 	DATA 	Keypress: 0
+144.0770 	EXP 	Device response: <KeyPress from None: t=144.06813520001015, value=0, duration=None>
+144.1593 	EXP 	Device response: <KeyPress from None: t=144.06813520001015, value=0, duration=0.07986399999936111>
+145.1967 	DATA 	Mouse: Left button down, pos=(498,157)
+145.2092 	EXP 	New trial (rep=1, index=6): <Trial 18 (6 in rep 1) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 18, 'thisTrialN': 6, 'thisRepN': 1}>
+145.2259 	EXP 	text: autoDraw = False
+145.2259 	EXP 	textbox: autoDraw = False
+145.2259 	EXP 	polygon: autoDraw = True
+145.4273 	DATA 	Mouse:  Left button up, pos=(498,157)
+146.2094 	INFO 	Keyboard events cleared
+146.2092 	EXP 	polygon_2: autoDraw = True
+146.2260 	EXP 	polygon: autoDraw = False
+147.8096 	EXP 	Device response: <KeyPress from None: t=147.80613700000686, value=space, duration=None>
+147.8113 	DATA 	Keypress: space
+147.8253 	EXP 	polygon: autoDraw = False
+147.8253 	EXP 	polygon_2: autoDraw = False
+147.8927 	EXP 	Sound sound_1 reached end of file
+147.9091 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+147.9426 	EXP 	Device response: <KeyPress from None: t=147.80613700000686, value=space, duration=0.1275784999888856>
+148.2053 	EXP 	Sound sound_1 stopped
+148.2241 	EXP 	text: autoDraw = True
+148.2241 	EXP 	textbox: autoDraw = True
+149.2580 	DATA 	Keypress: 2
+149.2591 	EXP 	Device response: <KeyPress from None: t=149.2495751999959, value=2, duration=None>
+149.4587 	EXP 	Device response: <KeyPress from None: t=149.2495751999959, value=2, duration=0.20393590000458062>
+149.6082 	DATA 	Keypress: 0
+149.6095 	EXP 	Device response: <KeyPress from None: t=149.6036077000026, value=0, duration=None>
+149.6917 	EXP 	Device response: <KeyPress from None: t=149.6036077000026, value=0, duration=0.07161650000489317>
+149.7787 	DATA 	Keypress: 0
+149.7913 	EXP 	Device response: <KeyPress from None: t=149.77828590001445, value=0, duration=None>
+149.8585 	EXP 	Device response: <KeyPress from None: t=149.77828590001445, value=0, duration=0.06878760000108741>
+150.6253 	DATA 	Mouse: Left button down, pos=(496,167)
+150.6257 	EXP 	New trial (rep=1, index=7): <Trial 19 (7 in rep 1) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 19, 'thisTrialN': 7, 'thisRepN': 1}>
+150.6409 	EXP 	text: autoDraw = False
+150.6409 	EXP 	textbox: autoDraw = False
+150.6409 	EXP 	polygon: autoDraw = True
+150.8598 	DATA 	Mouse:  Left button up, pos=(496,167)
+151.6239 	INFO 	Keyboard events cleared
+151.6238 	EXP 	polygon_2: autoDraw = True
+151.6406 	EXP 	polygon: autoDraw = False
+152.1254 	EXP 	Device response: <KeyPress from None: t=152.11642600002233, value=space, duration=None>
+152.1272 	DATA 	Keypress: space
+152.1412 	EXP 	polygon: autoDraw = False
+152.1412 	EXP 	polygon_2: autoDraw = False
+152.2764 	EXP 	Device response: <KeyPress from None: t=152.11642600002233, value=space, duration=0.15858899999875575>
+152.8089 	EXP 	Sound sound_1 reached end of file
+152.8252 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+153.1213 	EXP 	Sound sound_1 stopped
+153.1401 	EXP 	text: autoDraw = True
+153.1401 	EXP 	textbox: autoDraw = True
+154.2943 	DATA 	Keypress: 1
+154.3074 	EXP 	Device response: <KeyPress from None: t=154.29123590001836, value=1, duration=None>
+154.4575 	EXP 	Device response: <KeyPress from None: t=154.29123590001836, value=1, duration=0.1520907999947667>
+155.2120 	DATA 	Keypress: 5
+155.2240 	EXP 	Device response: <KeyPress from None: t=155.21150120001403, value=5, duration=None>
+155.3241 	EXP 	Device response: <KeyPress from None: t=155.21150120001403, value=5, duration=0.10563720000209287>
+155.4414 	DATA 	Keypress: 0
+155.4434 	EXP 	Device response: <KeyPress from None: t=155.4388705000165, value=0, duration=None>
+155.5573 	EXP 	Device response: <KeyPress from None: t=155.4388705000165, value=0, duration=0.10409290000097826>
+157.4746 	DATA 	Mouse: Left button down, pos=(525,167)
+157.4755 	EXP 	New trial (rep=1, index=8): <Trial 20 (8 in rep 1) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 20, 'thisTrialN': 8, 'thisRepN': 1}>
+157.4908 	EXP 	text: autoDraw = False
+157.4908 	EXP 	textbox: autoDraw = False
+157.4908 	EXP 	polygon: autoDraw = True
+157.6925 	DATA 	Mouse:  Left button up, pos=(525,167)
+158.4911 	INFO 	Keyboard events cleared
+158.4910 	EXP 	polygon: autoDraw = False
+158.4910 	EXP 	polygon_2: autoDraw = True
+159.0246 	EXP 	Device response: <KeyPress from None: t=159.01581120002083, value=space, duration=None>
+159.0263 	DATA 	Keypress: space
+159.0402 	EXP 	polygon: autoDraw = False
+159.0402 	EXP 	polygon_2: autoDraw = False
+159.1077 	EXP 	Sound sound_1 reached end of file
+159.1241 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+159.1747 	EXP 	Device response: <KeyPress from None: t=159.01581120002083, value=space, duration=0.1449560999753885>
+159.4210 	EXP 	Sound sound_1 stopped
+159.4396 	EXP 	text: autoDraw = True
+159.4396 	EXP 	textbox: autoDraw = True
+160.5238 	DATA 	Keypress: 2
+160.5249 	EXP 	Device response: <KeyPress from None: t=160.5223778000218, value=2, duration=None>
+160.6403 	EXP 	Device response: <KeyPress from None: t=160.5223778000218, value=2, duration=0.10533769999165088>
+160.9069 	DATA 	Keypress: 0
+160.9090 	EXP 	Device response: <KeyPress from None: t=160.9037421999965, value=0, duration=None>
+160.9901 	EXP 	Device response: <KeyPress from None: t=160.9037421999965, value=0, duration=0.0701485000026878>
+161.0901 	DATA 	Keypress: 0
+161.0914 	EXP 	Device response: <KeyPress from None: t=161.08063599999878, value=0, duration=None>
+161.1577 	EXP 	Device response: <KeyPress from None: t=161.08063599999878, value=0, duration=0.06964339999831282>
+162.2900 	DATA 	Mouse: Left button down, pos=(493,161)
+162.2906 	EXP 	New trial (rep=1, index=9): <Trial 21 (9 in rep 1) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 21, 'thisTrialN': 9, 'thisRepN': 1}>
+162.3062 	EXP 	text: autoDraw = False
+162.3062 	EXP 	textbox: autoDraw = False
+162.3062 	EXP 	polygon: autoDraw = True
+162.5249 	DATA 	Mouse:  Left button up, pos=(493,161)
+163.2904 	INFO 	Keyboard events cleared
+163.2902 	EXP 	polygon_2: autoDraw = True
+163.3070 	EXP 	polygon: autoDraw = False
+163.7739 	EXP 	Device response: <KeyPress from None: t=163.76857770001516, value=space, duration=None>
+163.7757 	DATA 	Keypress: space
+163.7903 	EXP 	polygon: autoDraw = False
+163.7903 	EXP 	polygon_2: autoDraw = False
+163.9403 	EXP 	Device response: <KeyPress from None: t=163.76857770001516, value=space, duration=0.1625855999882333>
+164.4573 	EXP 	Sound sound_1 reached end of file
+164.4737 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+164.7724 	EXP 	Sound sound_1 stopped
+164.7887 	EXP 	text: autoDraw = True
+164.7887 	EXP 	textbox: autoDraw = True
+165.8896 	DATA 	Keypress: 3
+165.8906 	EXP 	Device response: <KeyPress from None: t=165.88878579999437, value=3, duration=None>
+166.0230 	EXP 	Device response: <KeyPress from None: t=165.88878579999437, value=3, duration=0.13231340001220815>
+166.2266 	DATA 	Keypress: 0
+166.2395 	EXP 	Device response: <KeyPress from None: t=166.2261112999986, value=0, duration=None>
+166.3060 	EXP 	Device response: <KeyPress from None: t=166.2261112999986, value=0, duration=0.0711680999957025>
+166.4075 	DATA 	Keypress: 0
+166.4223 	EXP 	Device response: <KeyPress from None: t=166.4060773999954, value=0, duration=None>
+166.4900 	EXP 	Device response: <KeyPress from None: t=166.4060773999954, value=0, duration=0.07460660001379438>
+167.6252 	DATA 	Mouse: Left button down, pos=(512,163)
+167.6394 	EXP 	New trial (rep=1, index=10): <Trial 22 (10 in rep 1) data={'delay': 0.1, 'freq': 400, 'Condition': 'unexp', 'thisN': 22, 'thisTrialN': 10, 'thisRepN': 1}>
+167.6554 	EXP 	text: autoDraw = False
+167.6554 	EXP 	textbox: autoDraw = False
+167.6554 	EXP 	polygon: autoDraw = True
+167.8576 	DATA 	Mouse:  Left button up, pos=(512,163)
+168.5901 	EXP 	Device response: <KeyPress from None: t=168.58733830001438, value=space, duration=None>
+168.5911 	DATA 	Keypress: space
+168.6398 	INFO 	Keyboard events cleared
+168.6397 	EXP 	polygon_2: autoDraw = True
+168.6563 	EXP 	polygon: autoDraw = False
+168.6902 	EXP 	Device response: <KeyPress from None: t=168.58733830001438, value=space, duration=0.08677570000872947>
+169.1565 	EXP 	Device response: <KeyPress from None: t=169.14689880001242, value=space, duration=None>
+169.1583 	DATA 	Keypress: space
+169.1727 	EXP 	polygon: autoDraw = False
+169.1727 	EXP 	polygon_2: autoDraw = False
+169.2398 	EXP 	Sound sound_1 reached end of file
+169.2562 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+169.2730 	EXP 	Device response: <KeyPress from None: t=169.14689880001242, value=space, duration=0.12291589999222197>
+169.5591 	EXP 	Sound sound_1 stopped
+169.5712 	EXP 	text: autoDraw = True
+169.5712 	EXP 	textbox: autoDraw = True
+170.7559 	DATA 	Keypress: 4
+170.7583 	EXP 	Device response: <KeyPress from None: t=170.7512418999977, value=4, duration=None>
+170.9053 	EXP 	Device response: <KeyPress from None: t=170.7512418999977, value=4, duration=0.13901810001698323>
+171.4557 	DATA 	Keypress: backspace
+171.4573 	EXP 	Device response: <KeyPress from None: t=171.44466460001422, value=backspace, duration=None>
+171.6222 	EXP 	Device response: <KeyPress from None: t=171.44466460001422, value=backspace, duration=0.16944169998168945>
+171.8394 	DATA 	Keypress: 2
+171.8411 	EXP 	Device response: <KeyPress from None: t=171.8318385000166, value=2, duration=None>
+171.9720 	EXP 	Device response: <KeyPress from None: t=171.8318385000166, value=2, duration=0.1354208999837283>
+172.4047 	DATA 	Keypress: 5
+172.4058 	EXP 	Device response: <KeyPress from None: t=172.39927980001085, value=5, duration=None>
+172.5050 	EXP 	Device response: <KeyPress from None: t=172.39927980001085, value=5, duration=0.10470289998920634>
+172.8385 	DATA 	Keypress: 0
+172.8406 	EXP 	Device response: <KeyPress from None: t=172.8333191999991, value=0, duration=None>
+172.9221 	EXP 	Device response: <KeyPress from None: t=172.8333191999991, value=0, duration=0.08668440001201816>
+173.9221 	DATA 	Mouse: Left button down, pos=(528,142)
+173.9225 	EXP 	New trial (rep=1, index=11): <Trial 23 (11 in rep 1) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 23, 'thisTrialN': 11, 'thisRepN': 1}>
+173.9380 	EXP 	text: autoDraw = False
+173.9380 	EXP 	textbox: autoDraw = False
+173.9380 	EXP 	polygon: autoDraw = True
+174.1576 	DATA 	Mouse:  Left button up, pos=(528,142)
+174.9223 	INFO 	Keyboard events cleared
+174.9221 	EXP 	polygon_2: autoDraw = True
+174.9389 	EXP 	polygon: autoDraw = False
+175.9223 	EXP 	Device response: <KeyPress from None: t=175.91435810000985, value=space, duration=None>
+175.9243 	DATA 	Keypress: space
+175.9384 	EXP 	polygon: autoDraw = False
+175.9384 	EXP 	polygon_2: autoDraw = False
+176.0220 	EXP 	Device response: <KeyPress from None: t=175.91435810000985, value=space, duration=0.10452799999620765>
+176.3056 	EXP 	Sound sound_1 reached end of file
+176.3220 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+176.6208 	EXP 	Sound sound_1 stopped
+176.6370 	EXP 	text: autoDraw = True
+176.6370 	EXP 	textbox: autoDraw = True
+178.6380 	DATA 	Keypress: 2
+178.6395 	EXP 	Device response: <KeyPress from None: t=178.62988950000727, value=2, duration=None>
+178.7878 	EXP 	Device response: <KeyPress from None: t=178.62988950000727, value=2, duration=0.14388630000757985>
+179.1536 	DATA 	Keypress: 0
+179.1549 	EXP 	Device response: <KeyPress from None: t=179.14809450000757, value=0, duration=None>
+179.2372 	EXP 	Device response: <KeyPress from None: t=179.14809450000757, value=0, duration=0.07722060001106001>
+179.3369 	DATA 	Keypress: 0
+179.3383 	EXP 	Device response: <KeyPress from None: t=179.3287435999955, value=0, duration=None>
+179.4206 	EXP 	Device response: <KeyPress from None: t=179.3287435999955, value=0, duration=0.082202400022652>
+181.1392 	DATA 	Mouse: Left button down, pos=(494,154)
+181.1543 	EXP 	New trial (rep=2, index=0): <Trial 24 (0 in rep 2) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 24, 'thisTrialN': 0, 'thisRepN': 2}>
+181.1705 	EXP 	text: autoDraw = False
+181.1705 	EXP 	textbox: autoDraw = False
+181.1705 	EXP 	polygon: autoDraw = True
+181.3719 	DATA 	Mouse:  Left button up, pos=(494,154)
+182.1534 	INFO 	Keyboard events cleared
+182.1533 	EXP 	polygon_2: autoDraw = True
+182.1699 	EXP 	polygon: autoDraw = False
+183.7369 	EXP 	Device response: <KeyPress from None: t=183.7278396000038, value=space, duration=None>
+183.7379 	DATA 	Keypress: space
+183.7532 	EXP 	polygon: autoDraw = False
+183.7532 	EXP 	polygon_2: autoDraw = False
+183.8200 	EXP 	Sound sound_1 reached end of file
+183.8365 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+183.9040 	EXP 	Device response: <KeyPress from None: t=183.7278396000038, value=space, duration=0.16124929999932647>
+184.1349 	EXP 	Sound sound_1 stopped
+184.1526 	EXP 	text: autoDraw = True
+184.1526 	EXP 	textbox: autoDraw = True
+185.4560 	DATA 	Keypress: 4
+185.4702 	EXP 	Device response: <KeyPress from None: t=185.4537811000191, value=4, duration=None>
+185.5874 	EXP 	Device response: <KeyPress from None: t=185.4537811000191, value=4, duration=0.13003199998638593>
+185.7914 	DATA 	Keypress: 0
+185.8034 	EXP 	Device response: <KeyPress from None: t=185.78892340001767, value=0, duration=None>
+185.8871 	EXP 	Device response: <KeyPress from None: t=185.78892340001767, value=0, duration=0.08632929998566397>
+185.9865 	DATA 	Keypress: 0
+185.9880 	EXP 	Device response: <KeyPress from None: t=185.97869190000347, value=0, duration=None>
+186.0542 	EXP 	Device response: <KeyPress from None: t=185.97869190000347, value=0, duration=0.06498769999598153>
+187.4044 	DATA 	Mouse: Left button down, pos=(524,181)
+187.4050 	EXP 	New trial (rep=2, index=1): <Trial 25 (1 in rep 2) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 25, 'thisTrialN': 1, 'thisRepN': 2}>
+187.4199 	EXP 	text: autoDraw = False
+187.4199 	EXP 	textbox: autoDraw = False
+187.4199 	EXP 	polygon: autoDraw = True
+187.6217 	DATA 	Mouse:  Left button up, pos=(524,181)
+188.4205 	INFO 	Keyboard events cleared
+188.4203 	EXP 	polygon: autoDraw = False
+188.4203 	EXP 	polygon_2: autoDraw = True
+190.0370 	EXP 	Device response: <KeyPress from None: t=190.02950030000648, value=space, duration=None>
+190.0389 	DATA 	Keypress: space
+190.0529 	EXP 	polygon: autoDraw = False
+190.0529 	EXP 	polygon_2: autoDraw = False
+190.1880 	EXP 	Device response: <KeyPress from None: t=190.02950030000648, value=space, duration=0.15766890000668354>
+190.4205 	EXP 	Sound sound_1 reached end of file
+190.4369 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+190.7340 	EXP 	Sound sound_1 stopped
+190.7518 	EXP 	text: autoDraw = True
+190.7518 	EXP 	textbox: autoDraw = True
+192.1193 	DATA 	Keypress: 2
+192.1204 	EXP 	Device response: <KeyPress from None: t=192.11602129999665, value=2, duration=None>
+192.2707 	EXP 	Device response: <KeyPress from None: t=192.11602129999665, value=2, duration=0.1532768000033684>
+192.4858 	DATA 	Keypress: 0
+192.4875 	EXP 	Device response: <KeyPress from None: t=192.48099040001398, value=0, duration=None>
+192.5703 	EXP 	Device response: <KeyPress from None: t=192.48099040001398, value=0, duration=0.07920509998803027>
+192.6538 	DATA 	Keypress: 0
+192.6570 	EXP 	Device response: <KeyPress from None: t=192.64757860000827, value=0, duration=None>
+192.7365 	EXP 	Device response: <KeyPress from None: t=192.64757860000827, value=0, duration=0.08624110001255758>
+193.6193 	DATA 	Mouse: Left button down, pos=(489,173)
+193.6198 	EXP 	New trial (rep=2, index=2): <Trial 26 (2 in rep 2) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 26, 'thisTrialN': 2, 'thisRepN': 2}>
+193.6356 	EXP 	text: autoDraw = False
+193.6356 	EXP 	textbox: autoDraw = False
+193.6356 	EXP 	polygon: autoDraw = True
+193.8370 	DATA 	Mouse:  Left button up, pos=(489,173)
+194.6196 	INFO 	Keyboard events cleared
+194.6195 	EXP 	polygon_2: autoDraw = True
+194.6362 	EXP 	polygon: autoDraw = False
+195.6199 	EXP 	Device response: <KeyPress from None: t=195.61671190001653, value=space, duration=None>
+195.6217 	DATA 	Keypress: space
+195.6363 	EXP 	polygon: autoDraw = False
+195.6363 	EXP 	polygon_2: autoDraw = False
+195.7529 	EXP 	Device response: <KeyPress from None: t=195.61671190001653, value=space, duration=0.13244630000554025>
+196.3030 	EXP 	Sound sound_1 reached end of file
+196.3194 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+196.6205 	EXP 	Sound sound_1 reached end of file
+196.6514 	EXP 	text: autoDraw = True
+196.6514 	EXP 	textbox: autoDraw = True
+197.7522 	DATA 	Keypress: 1
+197.7550 	EXP 	Device response: <KeyPress from None: t=197.74355380001361, value=1, duration=None>
+197.9019 	EXP 	Device response: <KeyPress from None: t=197.74355380001361, value=1, duration=0.14353509998181835>
+198.2852 	DATA 	Keypress: 5
+198.2866 	EXP 	Device response: <KeyPress from None: t=198.28456359999836, value=5, duration=None>
+198.4350 	EXP 	Device response: <KeyPress from None: t=198.28456359999836, value=5, duration=0.13752190000377595>
+198.4851 	DATA 	Keypress: 0
+198.4865 	EXP 	Device response: <KeyPress from None: t=198.47502189999796, value=0, duration=None>
+198.5865 	EXP 	Device response: <KeyPress from None: t=198.47502189999796, value=0, duration=0.10031140001956373>
+199.5849 	DATA 	Mouse: Left button down, pos=(469,158)
+199.5853 	EXP 	New trial (rep=2, index=3): <Trial 27 (3 in rep 2) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 27, 'thisTrialN': 3, 'thisRepN': 2}>
+199.6012 	EXP 	text: autoDraw = False
+199.6012 	EXP 	textbox: autoDraw = False
+199.6012 	EXP 	polygon: autoDraw = True
+199.8199 	DATA 	Mouse:  Left button up, pos=(469,158)
+200.5859 	INFO 	Keyboard events cleared
+200.5858 	EXP 	polygon_2: autoDraw = True
+200.6019 	EXP 	polygon: autoDraw = False
+201.1190 	EXP 	Device response: <KeyPress from None: t=201.1114765999955, value=space, duration=None>
+201.1211 	DATA 	Keypress: space
+201.1356 	EXP 	polygon: autoDraw = False
+201.1356 	EXP 	polygon_2: autoDraw = False
+201.1862 	EXP 	Device response: <KeyPress from None: t=201.1114765999955, value=space, duration=0.0730778000142891>
+201.5020 	EXP 	Sound sound_1 reached end of file
+201.5184 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+201.8199 	EXP 	Sound sound_1 stopped
+201.8336 	EXP 	text: autoDraw = True
+201.8336 	EXP 	textbox: autoDraw = True
+203.0346 	DATA 	Keypress: 2
+203.0357 	EXP 	Device response: <KeyPress from None: t=203.0285197000194, value=2, duration=None>
+203.1841 	EXP 	Device response: <KeyPress from None: t=203.0285197000194, value=2, duration=0.1432714999828022>
+203.1862 	DATA 	Keypress: 0
+203.2008 	EXP 	Device response: <KeyPress from None: t=203.18487540000933, value=0, duration=None>
+203.2850 	EXP 	Device response: <KeyPress from None: t=203.18487540000933, value=0, duration=0.08645329999853857>
+203.3849 	DATA 	Keypress: 0
+203.3866 	EXP 	Device response: <KeyPress from None: t=203.38275010001962, value=0, duration=None>
+203.4690 	EXP 	Device response: <KeyPress from None: t=203.38275010001962, value=0, duration=0.08319149998715147>
+204.4852 	DATA 	Mouse: Left button down, pos=(496,160)
+204.4856 	EXP 	New trial (rep=2, index=4): <Trial 28 (4 in rep 2) data={'delay': 0.1, 'freq': 400, 'Condition': 'unexp', 'thisN': 28, 'thisTrialN': 4, 'thisRepN': 2}>
+204.5004 	EXP 	text: autoDraw = False
+204.5004 	EXP 	textbox: autoDraw = False
+204.5004 	EXP 	polygon: autoDraw = True
+204.7196 	DATA 	Mouse:  Left button up, pos=(496,160)
+205.4850 	INFO 	Keyboard events cleared
+205.4849 	EXP 	polygon_2: autoDraw = True
+205.5015 	EXP 	polygon: autoDraw = False
+206.3516 	DATA 	Mouse: Left button down, pos=(496,160)
+206.5017 	EXP 	Device response: <KeyPress from None: t=206.48599509999622, value=space, duration=None>
+206.5036 	DATA 	Keypress: space
+206.5182 	EXP 	polygon: autoDraw = False
+206.5182 	EXP 	polygon_2: autoDraw = False
+206.5695 	DATA 	Mouse:  Left button up, pos=(496,160)
+206.5849 	EXP 	Sound sound_1 reached end of file
+206.6013 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+206.6347 	EXP 	Device response: <KeyPress from None: t=206.48599509999622, value=space, duration=0.14298040000721812>
+206.9020 	EXP 	Sound sound_1 stopped
+206.9166 	EXP 	text: autoDraw = True
+206.9166 	EXP 	textbox: autoDraw = True
+208.5556 	DATA 	Keypress: 6
+208.5673 	EXP 	Device response: <KeyPress from None: t=208.5550228000211, value=6, duration=None>
+208.7012 	EXP 	Device response: <KeyPress from None: t=208.5550228000211, value=6, duration=0.14040179998846725>
+208.8544 	DATA 	Keypress: 0
+208.8670 	EXP 	Device response: <KeyPress from None: t=208.85150160000194, value=0, duration=None>
+208.9350 	EXP 	Device response: <KeyPress from None: t=208.85150160000194, value=0, duration=0.07107760000508279>
+209.0338 	DATA 	Keypress: 0
+209.0357 	EXP 	Device response: <KeyPress from None: t=209.0264747000183, value=0, duration=None>
+209.1174 	EXP 	Device response: <KeyPress from None: t=209.0264747000183, value=0, duration=0.0744328000000678>
+210.0881 	DATA 	Mouse: Left button down, pos=(498,168)
+210.1006 	EXP 	New trial (rep=2, index=5): <Trial 29 (5 in rep 2) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 29, 'thisTrialN': 5, 'thisRepN': 2}>
+210.1173 	EXP 	text: autoDraw = False
+210.1173 	EXP 	textbox: autoDraw = False
+210.1173 	EXP 	polygon: autoDraw = True
+210.3188 	DATA 	Mouse:  Left button up, pos=(498,168)
+211.1012 	INFO 	Keyboard events cleared
+211.1011 	EXP 	polygon_2: autoDraw = True
+211.1175 	EXP 	polygon: autoDraw = False
+211.5339 	EXP 	Device response: <KeyPress from None: t=211.52284510000027, value=space, duration=None>
+211.5353 	DATA 	Keypress: space
+211.5508 	EXP 	polygon: autoDraw = False
+211.5508 	EXP 	polygon_2: autoDraw = False
+211.6845 	EXP 	Device response: <KeyPress from None: t=211.52284510000027, value=space, duration=0.14633680001134053>
+212.2178 	EXP 	Sound sound_1 reached end of file
+212.2341 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+212.5314 	EXP 	Sound sound_1 stopped
+212.5493 	EXP 	text: autoDraw = True
+212.5493 	EXP 	textbox: autoDraw = True
+213.2397 	DATA 	Keypress: 1
+213.2499 	EXP 	Device response: <KeyPress from None: t=213.23869900000864, value=1, duration=None>
+213.4006 	EXP 	Device response: <KeyPress from None: t=213.23869900000864, value=1, duration=0.15010060000349768>
+213.4712 	DATA 	Keypress: 2
+213.4836 	EXP 	Device response: <KeyPress from None: t=213.46909349999623, value=2, duration=None>
+213.6347 	EXP 	Device response: <KeyPress from None: t=213.46909349999623, value=2, duration=0.15556390001438558>
+214.0376 	DATA 	Keypress: 0
+214.0501 	EXP 	Device response: <KeyPress from None: t=214.03553230001125, value=0, duration=None>
+214.1174 	EXP 	Device response: <KeyPress from None: t=214.03553230001125, value=0, duration=0.07468819999485277>
+215.1028 	DATA 	Mouse: Left button down, pos=(546,183)
+215.1165 	EXP 	New trial (rep=2, index=6): <Trial 30 (6 in rep 2) data={'delay': 0.7, 'freq': 400, 'Condition': 'unexp', 'thisN': 30, 'thisTrialN': 6, 'thisRepN': 2}>
+215.1326 	EXP 	text: autoDraw = False
+215.1326 	EXP 	textbox: autoDraw = False
+215.1326 	EXP 	polygon: autoDraw = True
+215.3344 	DATA 	Mouse:  Left button up, pos=(546,183)
+216.1171 	INFO 	Keyboard events cleared
+216.1169 	EXP 	polygon_2: autoDraw = True
+216.1335 	EXP 	polygon: autoDraw = False
+216.8671 	EXP 	Device response: <KeyPress from None: t=216.86176990001695, value=space, duration=None>
+216.8690 	DATA 	Keypress: space
+216.8833 	EXP 	polygon: autoDraw = False
+216.8833 	EXP 	polygon_2: autoDraw = False
+217.0172 	EXP 	Device response: <KeyPress from None: t=216.86176990001695, value=space, duration=0.14629939998849295>
+217.5658 	EXP 	Sound sound_1 reached end of file
+217.5822 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+217.8800 	EXP 	Sound sound_1 stopped
+217.8986 	EXP 	text: autoDraw = True
+217.8986 	EXP 	textbox: autoDraw = True
+219.3376 	DATA 	Keypress: 8
+219.3493 	EXP 	Device response: <KeyPress from None: t=219.33604789999663, value=8, duration=None>
+219.4828 	EXP 	Device response: <KeyPress from None: t=219.33604789999663, value=8, duration=0.1364060000050813>
+219.5527 	DATA 	Keypress: 0
+219.5656 	EXP 	Device response: <KeyPress from None: t=219.54995119999512, value=0, duration=None>
+219.6328 	EXP 	Device response: <KeyPress from None: t=219.54995119999512, value=0, duration=0.07744450002792291>
+219.7197 	DATA 	Keypress: 0
+219.7323 	EXP 	Device response: <KeyPress from None: t=219.71952010001405, value=0, duration=None>
+219.8162 	EXP 	Device response: <KeyPress from None: t=219.71952010001405, value=0, duration=0.08388059999560937>
+221.4010 	DATA 	Mouse: Left button down, pos=(506,157)
+221.4157 	EXP 	New trial (rep=2, index=7): <Trial 31 (7 in rep 2) data={'delay': 0.4, 'freq': 400, 'Condition': 'unexp', 'thisN': 31, 'thisTrialN': 7, 'thisRepN': 2}>
+221.4323 	EXP 	text: autoDraw = False
+221.4323 	EXP 	textbox: autoDraw = False
+221.4323 	EXP 	polygon: autoDraw = True
+221.6338 	DATA 	Mouse:  Left button up, pos=(506,157)
+222.4162 	INFO 	Keyboard events cleared
+222.4160 	EXP 	polygon_2: autoDraw = True
+222.4327 	EXP 	polygon: autoDraw = False
+222.9158 	EXP 	Device response: <KeyPress from None: t=222.9042924999958, value=space, duration=None>
+222.9171 	DATA 	Keypress: space
+222.9323 	EXP 	polygon: autoDraw = False
+222.9323 	EXP 	polygon_2: autoDraw = False
+223.0664 	EXP 	Device response: <KeyPress from None: t=222.9042924999958, value=space, duration=0.1573068000143394>
+223.2996 	EXP 	Sound sound_1 reached end of file
+223.3160 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+223.6082 	EXP 	Sound sound_1 stopped
+223.6312 	EXP 	text: autoDraw = True
+223.6312 	EXP 	textbox: autoDraw = True
+224.8682 	DATA 	Keypress: 7
+224.8815 	EXP 	Device response: <KeyPress from None: t=224.86667630000738, value=7, duration=None>
+225.0165 	EXP 	Device response: <KeyPress from None: t=224.86667630000738, value=7, duration=0.14448990000528283>
+225.0653 	DATA 	Keypress: 0
+225.0667 	EXP 	Device response: <KeyPress from None: t=225.0608835000021, value=0, duration=None>
+225.1663 	EXP 	Device response: <KeyPress from None: t=225.0608835000021, value=0, duration=0.0946997000137344>
+225.2370 	DATA 	Keypress: 0
+225.2483 	EXP 	Device response: <KeyPress from None: t=225.2352138000133, value=0, duration=None>
+225.3156 	EXP 	Device response: <KeyPress from None: t=225.2352138000133, value=0, duration=0.07762989998445846>
+226.8014 	DATA 	Mouse: Left button down, pos=(465,159)
+226.8155 	EXP 	New trial (rep=2, index=8): <Trial 32 (8 in rep 2) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 32, 'thisTrialN': 8, 'thisRepN': 2}>
+226.8319 	EXP 	text: autoDraw = False
+226.8319 	EXP 	textbox: autoDraw = False
+226.8319 	EXP 	polygon: autoDraw = True
+227.0168 	DATA 	Mouse:  Left button up, pos=(465,159)
+227.8150 	INFO 	Keyboard events cleared
+227.8149 	EXP 	polygon_2: autoDraw = True
+227.8317 	EXP 	polygon: autoDraw = False
+229.2319 	EXP 	Device response: <KeyPress from None: t=229.22477610001806, value=space, duration=None>
+229.2337 	DATA 	Keypress: space
+229.2485 	EXP 	polygon: autoDraw = False
+229.2485 	EXP 	polygon_2: autoDraw = False
+229.3992 	EXP 	Device response: <KeyPress from None: t=229.22477610001806, value=space, duration=0.15861279997625388>
+229.6155 	EXP 	Sound sound_1 reached end of file
+229.6318 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+229.9333 	EXP 	Sound sound_1 stopped
+229.9468 	EXP 	text: autoDraw = True
+229.9468 	EXP 	textbox: autoDraw = True
+230.9172 	DATA 	Keypress: 3
+230.9307 	EXP 	Device response: <KeyPress from None: t=230.91543150000507, value=3, duration=None>
+231.0314 	EXP 	Device response: <KeyPress from None: t=230.91543150000507, value=3, duration=0.11416970001300797>
+231.1984 	DATA 	Keypress: 0
+231.2004 	EXP 	Device response: <KeyPress from None: t=231.19361080002273, value=0, duration=None>
+231.2978 	EXP 	Device response: <KeyPress from None: t=231.19361080002273, value=0, duration=0.08720159999211319>
+231.3719 	DATA 	Keypress: 0
+231.3817 	EXP 	Device response: <KeyPress from None: t=231.37013120000483, value=0, duration=None>
+231.4491 	EXP 	Device response: <KeyPress from None: t=231.37013120000483, value=0, duration=0.0775693999894429>
+232.4808 	DATA 	Mouse: Left button down, pos=(510,159)
+232.4816 	EXP 	New trial (rep=2, index=9): <Trial 33 (9 in rep 2) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 33, 'thisTrialN': 9, 'thisRepN': 2}>
+232.4979 	EXP 	text: autoDraw = False
+232.4979 	EXP 	textbox: autoDraw = False
+232.4979 	EXP 	polygon: autoDraw = True
+232.6993 	DATA 	Mouse:  Left button up, pos=(510,159)
+233.4817 	INFO 	Keyboard events cleared
+233.4815 	EXP 	polygon_2: autoDraw = True
+233.4980 	EXP 	polygon: autoDraw = False
+233.9818 	EXP 	Device response: <KeyPress from None: t=233.97993870000937, value=space, duration=None>
+233.9836 	DATA 	Keypress: space
+233.9979 	EXP 	polygon: autoDraw = False
+233.9979 	EXP 	polygon_2: autoDraw = False
+234.1148 	EXP 	Device response: <KeyPress from None: t=233.97993870000937, value=space, duration=0.12928049999754876>
+234.6648 	EXP 	Sound sound_1 reached end of file
+234.6811 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+234.9798 	EXP 	Sound sound_1 stopped
+234.9965 	EXP 	text: autoDraw = True
+234.9965 	EXP 	textbox: autoDraw = True
+236.1511 	DATA 	Keypress: 5
+236.1636 	EXP 	Device response: <KeyPress from None: t=236.1469879000215, value=5, duration=None>
+236.2644 	EXP 	Device response: <KeyPress from None: t=236.1469879000215, value=5, duration=0.10711389998323284>
+236.4304 	DATA 	Keypress: 0
+236.4324 	EXP 	Device response: <KeyPress from None: t=236.42111090000253, value=0, duration=None>
+236.4975 	EXP 	Device response: <KeyPress from None: t=236.42111090000253, value=0, duration=0.07413130000350066>
+236.5994 	DATA 	Keypress: 0
+236.6139 	EXP 	Device response: <KeyPress from None: t=236.59802279999712, value=0, duration=None>
+236.6802 	EXP 	Device response: <KeyPress from None: t=236.59802279999712, value=0, duration=0.0672377000155393>
+237.7152 	DATA 	Mouse: Left button down, pos=(528,147)
+237.7158 	EXP 	New trial (rep=2, index=10): <Trial 34 (10 in rep 2) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 34, 'thisTrialN': 10, 'thisRepN': 2}>
+237.7304 	EXP 	text: autoDraw = False
+237.7304 	EXP 	textbox: autoDraw = False
+237.7304 	EXP 	polygon: autoDraw = True
+237.9487 	DATA 	Mouse:  Left button up, pos=(528,147)
+238.7303 	INFO 	Keyboard events cleared
+238.7302 	EXP 	polygon: autoDraw = False
+238.7302 	EXP 	polygon_2: autoDraw = True
+239.2142 	EXP 	Device response: <KeyPress from None: t=239.20031750001363, value=space, duration=None>
+239.2161 	DATA 	Keypress: space
+239.2302 	EXP 	polygon: autoDraw = False
+239.2302 	EXP 	polygon_2: autoDraw = False
+239.2977 	EXP 	Sound sound_1 reached end of file
+239.3139 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+239.3310 	EXP 	Device response: <KeyPress from None: t=239.20031750001363, value=space, duration=0.12187390000326559>
+239.6117 	EXP 	Sound sound_1 stopped
+239.6291 	EXP 	text: autoDraw = True
+239.6291 	EXP 	textbox: autoDraw = True
+240.7801 	DATA 	Keypress: 2
+240.7822 	EXP 	Device response: <KeyPress from None: t=240.7708973000117, value=2, duration=None>
+240.9303 	EXP 	Device response: <KeyPress from None: t=240.7708973000117, value=2, duration=0.15550570000777952>
+241.0964 	DATA 	Keypress: 0
+241.0984 	EXP 	Device response: <KeyPress from None: t=241.0925979000167, value=0, duration=None>
+241.1807 	EXP 	Device response: <KeyPress from None: t=241.0925979000167, value=0, duration=0.08191129998886026>
+241.2799 	DATA 	Keypress: 0
+241.2818 	EXP 	Device response: <KeyPress from None: t=241.27242300001672, value=0, duration=None>
+241.3635 	EXP 	Device response: <KeyPress from None: t=241.27242300001672, value=0, duration=0.07887749999645166>
+242.3472 	DATA 	Mouse: Left button down, pos=(508,173)
+242.3480 	EXP 	New trial (rep=2, index=11): <Trial 35 (11 in rep 2) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 35, 'thisTrialN': 11, 'thisRepN': 2}>
+242.3633 	EXP 	text: autoDraw = False
+242.3633 	EXP 	textbox: autoDraw = False
+242.3633 	EXP 	polygon: autoDraw = True
+242.5817 	DATA 	Mouse:  Left button up, pos=(508,173)
+243.3632 	INFO 	Keyboard events cleared
+243.3631 	EXP 	polygon: autoDraw = False
+243.3631 	EXP 	polygon_2: autoDraw = True
+244.2805 	EXP 	Device response: <KeyPress from None: t=244.2714241000067, value=space, duration=None>
+244.2823 	DATA 	Keypress: space
+244.2955 	EXP 	polygon: autoDraw = False
+244.2955 	EXP 	polygon_2: autoDraw = False
+244.3635 	EXP 	Sound sound_1 reached end of file
+244.3799 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+244.4136 	EXP 	Device response: <KeyPress from None: t=244.2714241000067, value=space, duration=0.13568139998824336>
+244.6826 	EXP 	Sound sound_1 stopped
+244.6948 	EXP 	text: autoDraw = True
+244.6948 	EXP 	textbox: autoDraw = True
+245.7957 	DATA 	Keypress: 1
+245.7970 	EXP 	Device response: <KeyPress from None: t=245.79003990002093, value=1, duration=None>
+245.9790 	EXP 	Device response: <KeyPress from None: t=245.79003990002093, value=1, duration=0.17535749997477978>
+246.0797 	DATA 	Keypress: 5
+246.0823 	EXP 	Device response: <KeyPress from None: t=246.0741229999985, value=5, duration=None>
+246.1626 	EXP 	Device response: <KeyPress from None: t=246.0741229999985, value=5, duration=0.08252060000086203>
+246.5793 	DATA 	Keypress: 0
+246.5812 	EXP 	Device response: <KeyPress from None: t=246.57745370001066, value=0, duration=None>
+246.6628 	EXP 	Device response: <KeyPress from None: t=246.57745370001066, value=0, duration=0.06992400001036003>
+247.6809 	DATA 	Mouse: Left button down, pos=(555,142)
+247.6957 	EXP 	New trial (rep=3, index=0): <Trial 36 (0 in rep 3) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 36, 'thisTrialN': 0, 'thisRepN': 3}>
+247.7121 	EXP 	text: autoDraw = False
+247.7121 	EXP 	textbox: autoDraw = False
+247.7121 	EXP 	polygon: autoDraw = True
+247.9128 	DATA 	Mouse:  Left button up, pos=(555,142)
+248.6963 	INFO 	Keyboard events cleared
+248.6961 	EXP 	polygon_2: autoDraw = True
+248.7129 	EXP 	polygon: autoDraw = False
+249.0296 	EXP 	Device response: <KeyPress from None: t=249.02797700001975, value=space, duration=None>
+249.0315 	DATA 	Keypress: space
+249.0459 	EXP 	polygon: autoDraw = False
+249.0459 	EXP 	polygon_2: autoDraw = False
+249.1629 	EXP 	Device response: <KeyPress from None: t=249.02797700001975, value=space, duration=0.1215708999952767>
+249.7131 	EXP 	Sound sound_1 reached end of file
+249.7295 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+250.0306 	EXP 	Sound sound_1 stopped
+250.0442 	EXP 	text: autoDraw = True
+250.0442 	EXP 	textbox: autoDraw = True
+251.0948 	DATA 	Keypress: 6
+251.0960 	EXP 	Device response: <KeyPress from None: t=251.09272159999819, value=6, duration=None>
+251.2629 	EXP 	Device response: <KeyPress from None: t=251.09272159999819, value=6, duration=0.1610559000109788>
+251.3787 	DATA 	Keypress: 0
+251.3803 	EXP 	Device response: <KeyPress from None: t=251.37730200000806, value=0, duration=None>
+251.4786 	EXP 	Device response: <KeyPress from None: t=251.37730200000806, value=0, duration=0.08997910001198761>
+251.5624 	DATA 	Keypress: 0
+251.5654 	EXP 	Device response: <KeyPress from None: t=251.55449920002138, value=0, duration=None>
+251.6450 	EXP 	Device response: <KeyPress from None: t=251.55449920002138, value=0, duration=0.07708499999716878>
+252.5801 	DATA 	Mouse: Left button down, pos=(509,154)
+252.5948 	EXP 	New trial (rep=3, index=1): <Trial 37 (1 in rep 3) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 37, 'thisTrialN': 1, 'thisRepN': 3}>
+252.6113 	EXP 	text: autoDraw = False
+252.6113 	EXP 	textbox: autoDraw = False
+252.6113 	EXP 	polygon: autoDraw = True
+252.8127 	DATA 	Mouse:  Left button up, pos=(509,154)
+253.5954 	INFO 	Keyboard events cleared
+253.5952 	EXP 	polygon_2: autoDraw = True
+253.6115 	EXP 	polygon: autoDraw = False
+254.2289 	EXP 	Device response: <KeyPress from None: t=254.21892200000002, value=space, duration=None>
+254.2306 	DATA 	Keypress: space
+254.2449 	EXP 	polygon: autoDraw = False
+254.2449 	EXP 	polygon_2: autoDraw = False
+254.3121 	EXP 	Sound sound_1 reached end of file
+254.3285 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+254.3623 	EXP 	Device response: <KeyPress from None: t=254.21892200000002, value=space, duration=0.13732720000552945>
+254.6212 	EXP 	Sound sound_1 stopped
+254.6438 	EXP 	text: autoDraw = True
+254.6438 	EXP 	textbox: autoDraw = True
+255.9110 	DATA 	Keypress: 3
+255.9122 	EXP 	Device response: <KeyPress from None: t=255.90931810002076, value=3, duration=None>
+256.0623 	EXP 	Device response: <KeyPress from None: t=255.90931810002076, value=3, duration=0.15175609997822903>
+256.1975 	DATA 	Keypress: 0
+256.2109 	EXP 	Device response: <KeyPress from None: t=256.1972666000074, value=0, duration=None>
+256.2951 	EXP 	Device response: <KeyPress from None: t=256.1972666000074, value=0, duration=0.09046249999664724>
+256.3777 	DATA 	Keypress: 0
+256.3791 	EXP 	Device response: <KeyPress from None: t=256.3673308000143, value=0, duration=None>
+256.4605 	EXP 	Device response: <KeyPress from None: t=256.3673308000143, value=0, duration=0.07912700000451878>
+257.4638 	DATA 	Mouse: Left button down, pos=(505,156)
+257.4781 	EXP 	New trial (rep=3, index=2): <Trial 38 (2 in rep 3) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 38, 'thisTrialN': 2, 'thisRepN': 3}>
+257.4941 	EXP 	text: autoDraw = False
+257.4941 	EXP 	textbox: autoDraw = False
+257.4941 	EXP 	polygon: autoDraw = True
+257.6962 	DATA 	Mouse:  Left button up, pos=(505,156)
+258.4787 	INFO 	Keyboard events cleared
+258.4785 	EXP 	polygon_2: autoDraw = True
+258.4947 	EXP 	polygon: autoDraw = False
+259.2285 	EXP 	Device response: <KeyPress from None: t=259.2207477000193, value=space, duration=None>
+259.2304 	DATA 	Keypress: space
+259.2437 	EXP 	polygon: autoDraw = False
+259.2437 	EXP 	polygon_2: autoDraw = False
+259.3114 	EXP 	Sound sound_1 reached end of file
+259.3277 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+259.3116 	EXP 	Device response: <KeyPress from None: t=259.2207477000193, value=space, duration=0.08711459999904037>
+259.6212 	EXP 	Sound sound_1 stopped
+259.6432 	EXP 	text: autoDraw = True
+259.6432 	EXP 	textbox: autoDraw = True
+260.9106 	DATA 	Keypress: 2
+260.9116 	EXP 	Device response: <KeyPress from None: t=260.9032773000072, value=2, duration=None>
+261.0614 	DATA 	Keypress: 0
+261.0639 	EXP 	Device response: <KeyPress from None: t=260.9032773000072, value=2, duration=0.14155359999858774>
+261.0640 	EXP 	Device response: <KeyPress from None: t=261.05849480000325, value=0, duration=None>
+261.1451 	EXP 	Device response: <KeyPress from None: t=261.05849480000325, value=0, duration=0.08457560001988895>
+261.2291 	DATA 	Keypress: 0
+261.2437 	EXP 	Device response: <KeyPress from None: t=261.22762290001265, value=0, duration=None>
+261.3106 	EXP 	Device response: <KeyPress from None: t=261.22762290001265, value=0, duration=0.07291039999108762>
+262.2937 	DATA 	Mouse: Left button down, pos=(509,158)
+262.2941 	EXP 	New trial (rep=3, index=3): <Trial 39 (3 in rep 3) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 39, 'thisTrialN': 3, 'thisRepN': 3}>
+262.3098 	EXP 	text: autoDraw = False
+262.3098 	EXP 	textbox: autoDraw = False
+262.3098 	EXP 	polygon: autoDraw = True
+262.5106 	DATA 	Mouse:  Left button up, pos=(509,158)
+263.2942 	INFO 	Keyboard events cleared
+263.2941 	EXP 	polygon_2: autoDraw = True
+263.3109 	EXP 	polygon: autoDraw = False
+263.7933 	EXP 	Device response: <KeyPress from None: t=263.7889851000218, value=space, duration=None>
+263.7947 	DATA 	Keypress: space
+263.8104 	EXP 	polygon: autoDraw = False
+263.8104 	EXP 	polygon_2: autoDraw = False
+263.9610 	EXP 	Device response: <KeyPress from None: t=263.7889851000218, value=space, duration=0.15751859999727458>
+264.1774 	EXP 	Sound sound_1 reached end of file
+264.1938 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+264.4921 	EXP 	Sound sound_1 stopped
+264.5092 	EXP 	text: autoDraw = True
+264.5092 	EXP 	textbox: autoDraw = True
+265.8988 	DATA 	Keypress: 4
+265.9097 	EXP 	Device response: <KeyPress from None: t=265.8941607000015, value=4, duration=None>
+266.0266 	EXP 	Device response: <KeyPress from None: t=265.8941607000015, value=4, duration=0.12827849999302998>
+266.1619 	DATA 	Keypress: 0
+266.1769 	EXP 	Device response: <KeyPress from None: t=266.16162100000656, value=0, duration=None>
+266.2447 	EXP 	Device response: <KeyPress from None: t=266.16162100000656, value=0, duration=0.0752885999972932>
+266.3436 	DATA 	Keypress: 0
+266.3450 	EXP 	Device response: <KeyPress from None: t=266.33606930001406, value=0, duration=None>
+266.4267 	EXP 	Device response: <KeyPress from None: t=266.33606930001406, value=0, duration=0.08233000000473112>
+267.4429 	DATA 	Mouse: Left button down, pos=(521,165)
+267.4433 	EXP 	New trial (rep=3, index=4): <Trial 40 (4 in rep 3) data={'delay': 0.4, 'freq': 400, 'Condition': 'unexp', 'thisN': 40, 'thisTrialN': 4, 'thisRepN': 3}>
+267.4595 	EXP 	text: autoDraw = False
+267.4595 	EXP 	textbox: autoDraw = False
+267.4595 	EXP 	polygon: autoDraw = True
+267.6618 	DATA 	Mouse:  Left button up, pos=(521,165)
+268.4435 	INFO 	Keyboard events cleared
+268.4433 	EXP 	polygon_2: autoDraw = True
+268.4603 	EXP 	polygon: autoDraw = False
+268.7270 	EXP 	Device response: <KeyPress from None: t=268.7229345999949, value=space, duration=None>
+268.7288 	DATA 	Keypress: space
+268.7431 	EXP 	polygon: autoDraw = False
+268.7431 	EXP 	polygon_2: autoDraw = False
+268.8936 	EXP 	Device response: <KeyPress from None: t=268.7229345999949, value=space, duration=0.15837290001218207>
+269.1104 	EXP 	Sound sound_1 reached end of file
+269.1268 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+269.4259 	EXP 	Sound sound_1 stopped
+269.4419 	EXP 	text: autoDraw = True
+269.4419 	EXP 	textbox: autoDraw = True
+270.6593 	DATA 	Keypress: 8
+270.6605 	EXP 	Device response: <KeyPress from None: t=270.65398030000506, value=8, duration=None>
+270.7601 	EXP 	Device response: <KeyPress from None: t=270.65398030000506, value=8, duration=0.10072819999186322>
+271.0294 	DATA 	Keypress: 0
+271.0422 	EXP 	Device response: <KeyPress from None: t=271.02862950001145, value=0, duration=None>
+271.1424 	EXP 	Device response: <KeyPress from None: t=271.02862950001145, value=0, duration=0.1018018999893684>
+271.2425 	DATA 	Keypress: 0
+271.2441 	EXP 	Device response: <KeyPress from None: t=271.2344239000231, value=0, duration=None>
+271.2929 	EXP 	Device response: <KeyPress from None: t=271.2344239000231, value=0, duration=0.0561732999922242>
+272.8092 	DATA 	Mouse: Left button down, pos=(474,150)
+272.8098 	EXP 	New trial (rep=3, index=5): <Trial 41 (5 in rep 3) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 41, 'thisTrialN': 5, 'thisRepN': 3}>
+272.8253 	EXP 	text: autoDraw = False
+272.8253 	EXP 	textbox: autoDraw = False
+272.8253 	EXP 	polygon: autoDraw = True
+273.0277 	DATA 	Mouse:  Left button up, pos=(474,150)
+273.8098 	INFO 	Keyboard events cleared
+273.8096 	EXP 	polygon_2: autoDraw = True
+273.8251 	EXP 	polygon: autoDraw = False
+274.8419 	EXP 	Device response: <KeyPress from None: t=274.8375339000195, value=space, duration=None>
+274.8431 	DATA 	Keypress: space
+274.8584 	EXP 	polygon: autoDraw = False
+274.8584 	EXP 	polygon_2: autoDraw = False
+275.0420 	EXP 	Device response: <KeyPress from None: t=274.8375339000195, value=space, duration=0.19843369998852722>
+275.2261 	EXP 	Sound sound_1 reached end of file
+275.2425 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+275.5428 	EXP 	Sound sound_1 stopped
+275.5578 	EXP 	text: autoDraw = True
+275.5578 	EXP 	textbox: autoDraw = True
+276.4593 	DATA 	Keypress: 2
+276.4620 	EXP 	Device response: <KeyPress from None: t=276.44867559999693, value=2, duration=None>
+276.5920 	EXP 	Device response: <KeyPress from None: t=276.44867559999693, value=2, duration=0.1307210000231862>
+276.7928 	DATA 	Keypress: 0
+276.7956 	EXP 	Device response: <KeyPress from None: t=276.78307600002154, value=0, duration=None>
+276.8752 	EXP 	Device response: <KeyPress from None: t=276.78307600002154, value=0, duration=0.0760584999807179>
+276.9629 	DATA 	Keypress: 0
+276.9751 	EXP 	Device response: <KeyPress from None: t=276.9621560999949, value=0, duration=None>
+277.0426 	EXP 	Device response: <KeyPress from None: t=276.9621560999949, value=0, duration=0.06705960002727807>
+278.7248 	DATA 	Mouse: Left button down, pos=(496,163)
+278.7252 	EXP 	New trial (rep=3, index=6): <Trial 42 (6 in rep 3) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 42, 'thisTrialN': 6, 'thisRepN': 3}>
+278.7417 	EXP 	text: autoDraw = False
+278.7417 	EXP 	textbox: autoDraw = False
+278.7417 	EXP 	polygon: autoDraw = True
+278.9603 	DATA 	Mouse:  Left button up, pos=(496,163)
+279.7255 	INFO 	Keyboard events cleared
+279.7254 	EXP 	polygon_2: autoDraw = True
+279.7418 	EXP 	polygon: autoDraw = False
+279.9920 	EXP 	Device response: <KeyPress from None: t=279.9890173000167, value=space, duration=None>
+279.9939 	DATA 	Keypress: space
+280.0086 	EXP 	polygon: autoDraw = False
+280.0086 	EXP 	polygon_2: autoDraw = False
+280.1089 	EXP 	Device response: <KeyPress from None: t=279.9890173000167, value=space, duration=0.11271489999489859>
+280.6755 	EXP 	Sound sound_1 reached end of file
+280.6919 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+280.9921 	EXP 	Sound sound_1 stopped
+281.0070 	EXP 	text: autoDraw = True
+281.0070 	EXP 	textbox: autoDraw = True
+281.7744 	DATA 	Keypress: 4
+281.7757 	EXP 	Device response: <KeyPress from None: t=281.7667202000157, value=4, duration=None>
+281.9078 	EXP 	Device response: <KeyPress from None: t=281.7667202000157, value=4, duration=0.1294556999928318>
+282.3581 	DATA 	Keypress: 0
+282.3598 	EXP 	Device response: <KeyPress from None: t=282.3536628000147, value=0, duration=None>
+282.4409 	EXP 	Device response: <KeyPress from None: t=282.3536628000147, value=0, duration=0.07266889998572879>
+282.5408 	DATA 	Keypress: 0
+282.5431 	EXP 	Device response: <KeyPress from None: t=282.53258050000295, value=0, duration=None>
+282.6082 	EXP 	Device response: <KeyPress from None: t=282.53258050000295, value=0, duration=0.07174200000008568>
+283.5748 	DATA 	Mouse: Left button down, pos=(522,148)
+283.5754 	EXP 	New trial (rep=3, index=7): <Trial 43 (7 in rep 3) data={'delay': 0.7, 'freq': 400, 'Condition': 'unexp', 'thisN': 43, 'thisTrialN': 7, 'thisRepN': 3}>
+283.5905 	EXP 	text: autoDraw = False
+283.5905 	EXP 	textbox: autoDraw = False
+283.5905 	EXP 	polygon: autoDraw = True
+283.7927 	DATA 	Mouse:  Left button up, pos=(522,148)
+284.5750 	INFO 	Keyboard events cleared
+284.5748 	EXP 	polygon_2: autoDraw = True
+284.5915 	EXP 	polygon: autoDraw = False
+285.6075 	EXP 	Device response: <KeyPress from None: t=285.6053113999951, value=space, duration=None>
+285.6092 	DATA 	Keypress: space
+285.6238 	EXP 	polygon: autoDraw = False
+285.6238 	EXP 	polygon_2: autoDraw = False
+285.7913 	EXP 	Device response: <KeyPress from None: t=285.6053113999951, value=space, duration=0.17538500000955537>
+286.2916 	EXP 	Sound sound_1 reached end of file
+286.3080 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+286.6108 	EXP 	Sound sound_1 stopped
+286.6236 	EXP 	text: autoDraw = True
+286.6236 	EXP 	textbox: autoDraw = True
+290.8232 	DATA 	Keypress: 5
+290.8243 	EXP 	Device response: <KeyPress from None: t=290.8165687000146, value=5, duration=None>
+290.9735 	EXP 	Device response: <KeyPress from None: t=290.8165687000146, value=5, duration=0.1466151000058744>
+291.9731 	DATA 	Keypress: 0
+291.9745 	EXP 	Device response: <KeyPress from None: t=291.9621276000107, value=0, duration=None>
+292.0567 	EXP 	Device response: <KeyPress from None: t=291.9621276000107, value=0, duration=0.08958299999358132>
+292.1402 	DATA 	Keypress: 0
+292.1416 	EXP 	Device response: <KeyPress from None: t=292.1322624000022, value=0, duration=None>
+292.2231 	EXP 	Device response: <KeyPress from None: t=292.1322624000022, value=0, duration=0.07441190001554787>
+293.6900 	DATA 	Mouse: Left button down, pos=(527,176)
+293.6904 	EXP 	New trial (rep=3, index=8): <Trial 44 (8 in rep 3) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 44, 'thisTrialN': 8, 'thisRepN': 3}>
+293.7063 	EXP 	text: autoDraw = False
+293.7063 	EXP 	textbox: autoDraw = False
+293.7063 	EXP 	polygon: autoDraw = True
+293.9246 	DATA 	Mouse:  Left button up, pos=(527,176)
+294.6904 	INFO 	Keyboard events cleared
+294.6902 	EXP 	polygon_2: autoDraw = True
+294.7067 	EXP 	polygon: autoDraw = False
+295.2915 	DATA 	Keypress: space
+295.3072 	EXP 	Device response: <KeyPress from None: t=295.2904086000053, value=space, duration=None>
+295.3231 	EXP 	polygon: autoDraw = False
+295.3231 	EXP 	polygon_2: autoDraw = False
+295.4404 	EXP 	Device response: <KeyPress from None: t=295.2904086000053, value=space, duration=0.1415569999953732>
+296.0067 	EXP 	Sound sound_1 reached end of file
+296.0231 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+296.3194 	EXP 	Sound sound_1 stopped
+296.3384 	EXP 	text: autoDraw = True
+296.3384 	EXP 	textbox: autoDraw = True
+297.6897 	DATA 	Keypress: 9
+297.6966 	EXP 	Device response: <KeyPress from None: t=297.68888329999754, value=9, duration=None>
+297.7554 	EXP 	Device response: <KeyPress from None: t=297.68888329999754, value=9, duration=0.053297000005841255>
+297.9889 	DATA 	Keypress: 9
+297.9900 	EXP 	Device response: <KeyPress from None: t=297.98619580001105, value=9, duration=None>
+298.0727 	EXP 	Device response: <KeyPress from None: t=297.98619580001105, value=9, duration=0.07915919998777099>
+298.4555 	DATA 	Keypress: 9
+298.4569 	EXP 	Device response: <KeyPress from None: t=298.44713119999506, value=9, duration=None>
+298.5570 	EXP 	Device response: <KeyPress from None: t=298.44713119999506, value=9, duration=0.10770580000826158>
+299.5260 	DATA 	Mouse: Left button down, pos=(536,171)
+299.5402 	EXP 	New trial (rep=3, index=9): <Trial 45 (9 in rep 3) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 45, 'thisTrialN': 9, 'thisRepN': 3}>
+299.5562 	EXP 	text: autoDraw = False
+299.5562 	EXP 	textbox: autoDraw = False
+299.5562 	EXP 	polygon: autoDraw = True
+299.7407 	DATA 	Mouse:  Left button up, pos=(536,171)
+300.5394 	INFO 	Keyboard events cleared
+300.5392 	EXP 	polygon_2: autoDraw = True
+300.5561 	EXP 	polygon: autoDraw = False
+301.1237 	DATA 	Keypress: space
+301.1393 	EXP 	Device response: <KeyPress from None: t=301.12278360000346, value=space, duration=None>
+301.1546 	EXP 	polygon: autoDraw = False
+301.1546 	EXP 	polygon_2: autoDraw = False
+301.2894 	EXP 	Device response: <KeyPress from None: t=301.12278360000346, value=space, duration=0.15981680000550114>
+301.5226 	EXP 	Sound sound_1 reached end of file
+301.5390 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+301.8318 	EXP 	Sound sound_1 stopped
+301.8545 	EXP 	text: autoDraw = True
+301.8545 	EXP 	textbox: autoDraw = True
+302.9055 	DATA 	Keypress: 1
+302.9069 	EXP 	Device response: <KeyPress from None: t=302.9041533000127, value=1, duration=None>
+303.0385 	EXP 	Device response: <KeyPress from None: t=302.9041533000127, value=1, duration=0.13046739998389967>
+303.4253 	DATA 	Keypress: 5
+303.4383 	EXP 	Device response: <KeyPress from None: t=303.4243344000133, value=5, duration=None>
+303.5567 	EXP 	Device response: <KeyPress from None: t=303.4243344000133, value=5, duration=0.12976449998677708>
+303.5888 	DATA 	Keypress: 0
+303.5911 	EXP 	Device response: <KeyPress from None: t=303.5747007000027, value=0, duration=None>
+303.7397 	EXP 	Device response: <KeyPress from None: t=303.5747007000027, value=0, duration=0.15283320000162348>
+304.9386 	DATA 	Mouse: Left button down, pos=(562,152)
+304.9391 	EXP 	New trial (rep=3, index=10): <Trial 46 (10 in rep 3) data={'delay': 0.1, 'freq': 400, 'Condition': 'unexp', 'thisN': 46, 'thisTrialN': 10, 'thisRepN': 3}>
+304.9542 	EXP 	text: autoDraw = False
+304.9542 	EXP 	textbox: autoDraw = False
+304.9542 	EXP 	polygon: autoDraw = True
+305.1566 	DATA 	Mouse:  Left button up, pos=(562,152)
+305.9385 	INFO 	Keyboard events cleared
+305.9384 	EXP 	polygon_2: autoDraw = True
+305.9550 	EXP 	polygon: autoDraw = False
+306.5722 	EXP 	Device response: <KeyPress from None: t=306.55942440000945, value=space, duration=None>
+306.5738 	DATA 	Keypress: space
+306.5879 	EXP 	polygon: autoDraw = False
+306.5879 	EXP 	polygon_2: autoDraw = False
+306.6557 	EXP 	Sound sound_1 reached end of file
+306.6721 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+306.7056 	EXP 	Device response: <KeyPress from None: t=306.55942440000945, value=space, duration=0.14106870000250638>
+306.9705 	EXP 	Sound sound_1 stopped
+306.9870 	EXP 	text: autoDraw = True
+306.9870 	EXP 	textbox: autoDraw = True
+308.0211 	DATA 	Keypress: 1
+308.0225 	EXP 	Device response: <KeyPress from None: t=308.02066300000297, value=1, duration=None>
+308.1726 	EXP 	Device response: <KeyPress from None: t=308.02066300000297, value=1, duration=0.1398654000076931>
+308.4540 	DATA 	Keypress: 0
+308.4553 	EXP 	Device response: <KeyPress from None: t=308.44902250001905, value=0, duration=None>
+308.5380 	EXP 	Device response: <KeyPress from None: t=308.44902250001905, value=0, duration=0.08376849998603575>
+308.6543 	DATA 	Keypress: 0
+308.6556 	EXP 	Device response: <KeyPress from None: t=308.6534992000088, value=0, duration=None>
+308.7388 	EXP 	Device response: <KeyPress from None: t=308.6534992000088, value=0, duration=0.07911190000595525>
+309.0727 	DATA 	Keypress: space
+309.0876 	EXP 	Device response: <KeyPress from None: t=309.0710612999974, value=space, duration=None>
+309.1557 	EXP 	Device response: <KeyPress from None: t=309.0710612999974, value=space, duration=0.08250770001905039>
+310.2707 	DATA 	Mouse: Left button down, pos=(531,155)
+310.2711 	EXP 	New trial (rep=3, index=11): <Trial 47 (11 in rep 3) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 47, 'thisTrialN': 11, 'thisRepN': 3}>
+310.2872 	EXP 	text: autoDraw = False
+310.2872 	EXP 	textbox: autoDraw = False
+310.2872 	EXP 	polygon: autoDraw = True
+310.5061 	DATA 	Mouse:  Left button up, pos=(531,155)
+311.2715 	INFO 	Keyboard events cleared
+311.2713 	EXP 	polygon_2: autoDraw = True
+311.2878 	EXP 	polygon: autoDraw = False
+312.5716 	EXP 	Device response: <KeyPress from None: t=312.5711823000165, value=space, duration=None>
+312.5734 	DATA 	Keypress: space
+312.5879 	EXP 	polygon: autoDraw = False
+312.5879 	EXP 	polygon_2: autoDraw = False
+312.6546 	EXP 	Sound sound_1 reached end of file
+312.6709 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+312.6870 	EXP 	Device response: <KeyPress from None: t=312.5711823000165, value=space, duration=0.11266339998110197>
+312.9729 	EXP 	Sound sound_1 stopped
+312.9861 	EXP 	text: autoDraw = True
+312.9861 	EXP 	textbox: autoDraw = True
+314.8207 	DATA 	Keypress: 1
+314.8217 	EXP 	Device response: <KeyPress from None: t=314.8075112000224, value=1, duration=None>
+314.9372 	EXP 	Device response: <KeyPress from None: t=314.8075112000224, value=1, duration=0.11695189998135902>
+315.2034 	DATA 	Keypress: 5
+315.2047 	EXP 	Device response: <KeyPress from None: t=315.2004717999953, value=5, duration=None>
+315.3371 	EXP 	Device response: <KeyPress from None: t=315.2004717999953, value=5, duration=0.12809090001974255>
+315.3534 	DATA 	Keypress: 0
+315.3554 	EXP 	Device response: <KeyPress from None: t=315.34857900001225, value=0, duration=None>
+315.4704 	EXP 	Device response: <KeyPress from None: t=315.34857900001225, value=0, duration=0.10705130000133067>
+316.5704 	DATA 	Mouse: Left button down, pos=(530,155)
+316.5709 	EXP 	New trial (rep=4, index=0): <Trial 48 (0 in rep 4) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 48, 'thisTrialN': 0, 'thisRepN': 4}>
+316.5871 	EXP 	text: autoDraw = False
+316.5871 	EXP 	textbox: autoDraw = False
+316.5871 	EXP 	polygon: autoDraw = True
+316.7886 	DATA 	Mouse:  Left button up, pos=(530,155)
+317.5705 	INFO 	Keyboard events cleared
+317.5703 	EXP 	polygon_2: autoDraw = True
+317.5872 	EXP 	polygon: autoDraw = False
+318.1708 	EXP 	Device response: <KeyPress from None: t=318.1627129999979, value=space, duration=None>
+318.1726 	DATA 	Keypress: space
+318.1866 	EXP 	polygon: autoDraw = False
+318.1866 	EXP 	polygon_2: autoDraw = False
+318.3372 	EXP 	Device response: <KeyPress from None: t=318.1627129999979, value=space, duration=0.16012179999961518>
+318.5537 	EXP 	Sound sound_1 reached end of file
+318.5701 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+318.8694 	EXP 	Sound sound_1 stopped
+318.8855 	EXP 	text: autoDraw = True
+318.8855 	EXP 	textbox: autoDraw = True
+320.1694 	DATA 	Keypress: 2
+320.1707 	EXP 	Device response: <KeyPress from None: t=320.1645516999997, value=2, duration=None>
+320.3038 	EXP 	Device response: <KeyPress from None: t=320.1645516999997, value=2, duration=0.13198460001149215>
+320.4860 	DATA 	Keypress: 0
+320.4873 	EXP 	Device response: <KeyPress from None: t=320.48316350000096, value=0, duration=None>
+320.5695 	EXP 	Device response: <KeyPress from None: t=320.48316350000096, value=0, duration=0.07237609999720007>
+320.6576 	DATA 	Keypress: 0
+320.6695 	EXP 	Device response: <KeyPress from None: t=320.65621650000685, value=0, duration=None>
+320.7526 	EXP 	Device response: <KeyPress from None: t=320.65621650000685, value=0, duration=0.08268500000122003>
+322.0198 	DATA 	Mouse: Left button down, pos=(463,176)
+322.0204 	EXP 	New trial (rep=4, index=1): <Trial 49 (1 in rep 4) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 49, 'thisTrialN': 1, 'thisRepN': 4}>
+322.0359 	EXP 	text: autoDraw = False
+322.0359 	EXP 	textbox: autoDraw = False
+322.0359 	EXP 	polygon: autoDraw = True
+322.2376 	DATA 	Mouse:  Left button up, pos=(463,176)
+323.0200 	INFO 	Keyboard events cleared
+323.0198 	EXP 	polygon_2: autoDraw = True
+323.0364 	EXP 	polygon: autoDraw = False
+324.3869 	EXP 	Device response: <KeyPress from None: t=324.38604720000876, value=space, duration=None>
+324.3884 	DATA 	Keypress: space
+324.4019 	EXP 	polygon: autoDraw = False
+324.4019 	EXP 	polygon_2: autoDraw = False
+324.4698 	EXP 	Sound sound_1 reached end of file
+324.4862 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+324.5698 	EXP 	Device response: <KeyPress from None: t=324.38604720000876, value=space, duration=0.17841210000915453>
+324.7851 	EXP 	Sound sound_1 stopped
+324.8013 	EXP 	text: autoDraw = True
+324.8013 	EXP 	textbox: autoDraw = True
+326.0521 	DATA 	Keypress: 3
+326.0537 	EXP 	Device response: <KeyPress from None: t=326.0484642999945, value=3, duration=None>
+326.2188 	EXP 	Device response: <KeyPress from None: t=326.0484642999945, value=3, duration=0.15824200000497513>
+326.3742 	DATA 	Keypress: 0
+326.3863 	EXP 	Device response: <KeyPress from None: t=326.3725903000159, value=0, duration=None>
+326.4523 	EXP 	Device response: <KeyPress from None: t=326.3725903000159, value=0, duration=0.07133649999741465>
+326.5548 	DATA 	Keypress: 0
+326.5684 	EXP 	Device response: <KeyPress from None: t=326.55295539999497, value=0, duration=None>
+326.6531 	EXP 	Device response: <KeyPress from None: t=326.55295539999497, value=0, duration=0.09441600000718608>
+328.1186 	DATA 	Mouse: Left button down, pos=(505,145)
+328.1189 	EXP 	New trial (rep=4, index=2): <Trial 50 (2 in rep 4) data={'delay': 0.1, 'freq': 400, 'Condition': 'unexp', 'thisN': 50, 'thisTrialN': 2, 'thisRepN': 4}>
+328.1347 	EXP 	text: autoDraw = False
+328.1347 	EXP 	textbox: autoDraw = False
+328.1347 	EXP 	polygon: autoDraw = True
+328.3376 	DATA 	Mouse:  Left button up, pos=(505,145)
+329.1191 	INFO 	Keyboard events cleared
+329.1190 	EXP 	polygon_2: autoDraw = True
+329.1356 	EXP 	polygon: autoDraw = False
+333.5195 	DATA 	Keypress: space
+333.5349 	EXP 	Device response: <KeyPress from None: t=333.518867900013, value=space, duration=None>
+333.5517 	EXP 	polygon: autoDraw = False
+333.5517 	EXP 	polygon_2: autoDraw = False
+333.6346 	EXP 	Sound sound_1 reached end of file
+333.6510 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+333.7018 	EXP 	Device response: <KeyPress from None: t=333.518867900013, value=space, duration=0.18010219998541288>
+333.9490 	EXP 	Sound sound_1 stopped
+333.9668 	EXP 	text: autoDraw = True
+333.9668 	EXP 	textbox: autoDraw = True
+337.1009 	DATA 	Keypress: 5
+337.1024 	EXP 	Device response: <KeyPress from None: t=337.09411309999996, value=5, duration=None>
+337.2179 	EXP 	Device response: <KeyPress from None: t=337.09411309999996, value=5, duration=0.11603580001974478>
+337.7843 	DATA 	Keypress: 0
+337.7856 	EXP 	Device response: <KeyPress from None: t=337.77128580000135, value=0, duration=None>
+337.8678 	EXP 	Device response: <KeyPress from None: t=337.77128580000135, value=0, duration=0.08539079999900423>
+337.9343 	DATA 	Keypress: 0
+337.9362 	EXP 	Device response: <KeyPress from None: t=337.93034380002064, value=0, duration=None>
+338.0360 	EXP 	Device response: <KeyPress from None: t=337.93034380002064, value=0, duration=0.09419750000233762>
+340.2671 	DATA 	Mouse: Left button down, pos=(453,157)
+340.2676 	EXP 	New trial (rep=4, index=3): <Trial 51 (3 in rep 4) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 51, 'thisTrialN': 3, 'thisRepN': 4}>
+340.2829 	EXP 	text: autoDraw = False
+340.2829 	EXP 	textbox: autoDraw = False
+340.2829 	EXP 	polygon: autoDraw = True
+340.4851 	DATA 	Mouse:  Left button up, pos=(453,157)
+341.2677 	INFO 	Keyboard events cleared
+341.2676 	EXP 	polygon_2: autoDraw = True
+341.2841 	EXP 	polygon: autoDraw = False
+342.0338 	EXP 	Device response: <KeyPress from None: t=342.0262967000017, value=space, duration=None>
+342.0356 	DATA 	Keypress: space
+342.0498 	EXP 	polygon: autoDraw = False
+342.0498 	EXP 	polygon_2: autoDraw = False
+342.0501 	EXP 	Device response: <KeyPress from None: t=342.0262967000017, value=space, duration=0.014231900015147403>
+342.7174 	EXP 	Sound sound_1 reached end of file
+342.7338 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+343.0311 	EXP 	Sound sound_1 stopped
+343.0490 	EXP 	text: autoDraw = True
+343.0490 	EXP 	textbox: autoDraw = True
+344.4501 	DATA 	Keypress: 1
+344.4515 	EXP 	Device response: <KeyPress from None: t=344.4494886000175, value=1, duration=None>
+344.6163 	EXP 	Device response: <KeyPress from None: t=344.4494886000175, value=1, duration=0.15071079999324866>
+345.0175 	DATA 	Keypress: 5
+345.0197 	EXP 	Device response: <KeyPress from None: t=345.0086008000071, value=5, duration=None>
+345.1341 	EXP 	Device response: <KeyPress from None: t=345.0086008000071, value=5, duration=0.11663490001228638>
+345.1663 	DATA 	Keypress: 0
+345.1678 	EXP 	Device response: <KeyPress from None: t=345.15834710001945, value=0, duration=None>
+345.3163 	EXP 	Device response: <KeyPress from None: t=345.15834710001945, value=0, duration=0.14377460000105202>
+346.3497 	DATA 	Mouse: Left button down, pos=(541,174)
+346.3501 	EXP 	New trial (rep=4, index=4): <Trial 52 (4 in rep 4) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 52, 'thisTrialN': 4, 'thisRepN': 4}>
+346.3660 	EXP 	text: autoDraw = False
+346.3660 	EXP 	textbox: autoDraw = False
+346.3660 	EXP 	polygon: autoDraw = True
+346.5677 	DATA 	Mouse:  Left button up, pos=(541,174)
+347.3504 	INFO 	Keyboard events cleared
+347.3502 	EXP 	polygon_2: autoDraw = True
+347.3666 	EXP 	polygon: autoDraw = False
+348.7829 	EXP 	Device response: <KeyPress from None: t=348.78240039999946, value=space, duration=None>
+348.7845 	DATA 	Keypress: space
+348.8000 	EXP 	polygon: autoDraw = False
+348.8000 	EXP 	polygon_2: autoDraw = False
+348.8667 	EXP 	Sound sound_1 reached end of file
+348.8831 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+348.9669 	EXP 	Device response: <KeyPress from None: t=348.78240039999946, value=space, duration=0.17381680000107735>
+349.1828 	EXP 	Sound sound_1 stopped
+349.1984 	EXP 	text: autoDraw = True
+349.1984 	EXP 	textbox: autoDraw = True
+350.1043 	DATA 	Keypress: 1
+350.1156 	EXP 	Device response: <KeyPress from None: t=350.1031612000079, value=1, duration=None>
+350.2502 	EXP 	Device response: <KeyPress from None: t=350.1031612000079, value=1, duration=0.14583419999689795>
+350.8711 	DATA 	Keypress: 0
+350.8822 	EXP 	Device response: <KeyPress from None: t=350.8696213000221, value=0, duration=None>
+350.9665 	EXP 	Device response: <KeyPress from None: t=350.8696213000221, value=0, duration=0.08891359998960979>
+351.0662 	DATA 	Keypress: 0
+351.0687 	EXP 	Device response: <KeyPress from None: t=351.05543120001676, value=0, duration=None>
+351.1494 	EXP 	Device response: <KeyPress from None: t=351.05543120001676, value=0, duration=0.08130540000274777>
+352.0660 	DATA 	Mouse: Left button down, pos=(517,146)
+352.0667 	EXP 	New trial (rep=4, index=5): <Trial 53 (5 in rep 4) data={'delay': 0.4, 'freq': 400, 'Condition': 'unexp', 'thisN': 53, 'thisTrialN': 5, 'thisRepN': 4}>
+352.0825 	EXP 	text: autoDraw = False
+352.0825 	EXP 	textbox: autoDraw = False
+352.0825 	EXP 	polygon: autoDraw = True
+352.3004 	DATA 	Mouse:  Left button up, pos=(517,146)
+353.0661 	INFO 	Keyboard events cleared
+353.0659 	EXP 	polygon_2: autoDraw = True
+353.0826 	EXP 	polygon: autoDraw = False
+354.5315 	EXP 	Device response: <KeyPress from None: t=354.5291552999988, value=space, duration=None>
+354.5323 	DATA 	Keypress: space
+354.5479 	EXP 	polygon: autoDraw = False
+354.5479 	EXP 	polygon_2: autoDraw = False
+354.7162 	EXP 	Device response: <KeyPress from None: t=354.5291552999988, value=space, duration=0.17434399999910966>
+354.9159 	EXP 	Sound sound_1 reached end of file
+354.9323 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+355.2306 	EXP 	Sound sound_1 stopped
+355.2478 	EXP 	text: autoDraw = True
+355.2478 	EXP 	textbox: autoDraw = True
+357.7313 	DATA 	Keypress: 2
+357.7325 	EXP 	Device response: <KeyPress from None: t=357.7265345000196, value=2, duration=None>
+357.8983 	EXP 	Device response: <KeyPress from None: t=357.7265345000196, value=2, duration=0.16234089998761192>
+358.2316 	DATA 	Keypress: 0
+358.2337 	EXP 	Device response: <KeyPress from None: t=358.2293281000166, value=0, duration=None>
+358.3324 	EXP 	Device response: <KeyPress from None: t=358.2293281000166, value=0, duration=0.08730519999517128>
+358.4179 	DATA 	Keypress: 0
+358.4311 	EXP 	Device response: <KeyPress from None: t=358.41632340001524, value=0, duration=None>
+358.5144 	EXP 	Device response: <KeyPress from None: t=358.41632340001524, value=0, duration=0.08278619998600334>
+360.2155 	DATA 	Mouse: Left button down, pos=(525,187)
+360.2160 	EXP 	New trial (rep=4, index=6): <Trial 54 (6 in rep 4) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 54, 'thisTrialN': 6, 'thisRepN': 4}>
+360.2309 	EXP 	text: autoDraw = False
+360.2309 	EXP 	textbox: autoDraw = False
+360.2309 	EXP 	polygon: autoDraw = True
+360.4496 	DATA 	Mouse:  Left button up, pos=(525,187)
+361.2150 	INFO 	Keyboard events cleared
+361.2148 	EXP 	polygon_2: autoDraw = True
+361.2313 	EXP 	polygon: autoDraw = False
+362.1314 	EXP 	Device response: <KeyPress from None: t=362.11790070001734, value=space, duration=None>
+362.1327 	DATA 	Keypress: space
+362.1472 	EXP 	polygon: autoDraw = False
+362.1472 	EXP 	polygon_2: autoDraw = False
+362.2990 	EXP 	Device response: <KeyPress from None: t=362.11790070001734, value=space, duration=0.18030340000404976>
+362.8144 	EXP 	Sound sound_1 reached end of file
+362.8308 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+363.1315 	EXP 	Sound sound_1 stopped
+363.1466 	EXP 	text: autoDraw = True
+363.1466 	EXP 	textbox: autoDraw = True
+364.1138 	DATA 	Keypress: 9
+364.1149 	EXP 	Device response: <KeyPress from None: t=364.1104383000056, value=9, duration=None>
+364.2306 	EXP 	Device response: <KeyPress from None: t=364.1104383000056, value=9, duration=0.10353849999955855>
+364.3141 	DATA 	Keypress: 9
+364.3153 	EXP 	Device response: <KeyPress from None: t=364.30369640002027, value=9, duration=None>
+364.4305 	EXP 	Device response: <KeyPress from None: t=364.30369640002027, value=9, duration=0.11244389999774285>
+364.5141 	DATA 	Keypress: 9
+364.5155 	EXP 	Device response: <KeyPress from None: t=364.50638030000846, value=9, duration=None>
+364.6313 	EXP 	Device response: <KeyPress from None: t=364.50638030000846, value=9, duration=0.11093090000213124>
+365.5807 	DATA 	Mouse: Left button down, pos=(525,167)
+365.5811 	EXP 	New trial (rep=4, index=7): <Trial 55 (7 in rep 4) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 55, 'thisTrialN': 7, 'thisRepN': 4}>
+365.5967 	EXP 	text: autoDraw = False
+365.5967 	EXP 	textbox: autoDraw = False
+365.5967 	EXP 	polygon: autoDraw = True
+365.8143 	DATA 	Mouse:  Left button up, pos=(525,167)
+366.5813 	INFO 	Keyboard events cleared
+366.5812 	EXP 	polygon_2: autoDraw = True
+366.5975 	EXP 	polygon: autoDraw = False
+367.3312 	EXP 	Device response: <KeyPress from None: t=367.32573810001486, value=space, duration=None>
+367.3329 	DATA 	Keypress: space
+367.3469 	EXP 	polygon: autoDraw = False
+367.3469 	EXP 	polygon_2: autoDraw = False
+367.4815 	EXP 	Device response: <KeyPress from None: t=367.32573810001486, value=space, duration=0.1530547000002116>
+367.7143 	EXP 	Sound sound_1 reached end of file
+367.7306 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+368.0301 	EXP 	Sound sound_1 stopped
+368.0460 	EXP 	text: autoDraw = True
+368.0460 	EXP 	textbox: autoDraw = True
+369.3300 	DATA 	Keypress: 5
+369.3312 	EXP 	Device response: <KeyPress from None: t=369.3183815999946, value=5, duration=None>
+369.4466 	EXP 	Device response: <KeyPress from None: t=369.3183815999946, value=5, duration=0.12620940001215786>
+369.5629 	DATA 	Keypress: 0
+369.5644 	EXP 	Device response: <KeyPress from None: t=369.5507978000096, value=0, duration=None>
+369.6467 	EXP 	Device response: <KeyPress from None: t=369.5507978000096, value=0, duration=0.08220020000590011>
+369.7465 	DATA 	Keypress: 0
+369.7477 	EXP 	Device response: <KeyPress from None: t=369.7386321000231, value=0, duration=None>
+369.8299 	EXP 	Device response: <KeyPress from None: t=369.7386321000231, value=0, duration=0.08574049998424016>
+370.7801 	DATA 	Mouse: Left button down, pos=(498,158)
+370.7806 	EXP 	New trial (rep=4, index=8): <Trial 56 (8 in rep 4) data={'delay': 0.7, 'freq': 400, 'Condition': 'unexp', 'thisN': 56, 'thisTrialN': 8, 'thisRepN': 4}>
+370.7964 	EXP 	text: autoDraw = False
+370.7964 	EXP 	textbox: autoDraw = False
+370.7964 	EXP 	polygon: autoDraw = True
+370.9983 	DATA 	Mouse:  Left button up, pos=(498,158)
+371.7801 	INFO 	Keyboard events cleared
+371.7799 	EXP 	polygon_2: autoDraw = True
+371.7968 	EXP 	polygon: autoDraw = False
+372.1807 	EXP 	Device response: <KeyPress from None: t=372.173618300003, value=space, duration=None>
+372.1829 	DATA 	Keypress: space
+372.1964 	EXP 	polygon: autoDraw = False
+372.1964 	EXP 	polygon_2: autoDraw = False
+372.3137 	EXP 	Device response: <KeyPress from None: t=372.173618300003, value=space, duration=0.13867060001939535>
+372.8637 	EXP 	Sound sound_1 reached end of file
+372.8800 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+373.1827 	EXP 	Sound sound_1 stopped
+373.1952 	EXP 	text: autoDraw = True
+373.1952 	EXP 	textbox: autoDraw = True
+373.9320 	DATA 	Keypress: 8
+373.9457 	EXP 	Device response: <KeyPress from None: t=373.9294960999978, value=8, duration=None>
+374.0132 	EXP 	Device response: <KeyPress from None: t=373.9294960999978, value=8, duration=0.07920910001848824>
+374.2134 	DATA 	Keypress: 0
+374.2162 	EXP 	Device response: <KeyPress from None: t=374.2065135000157, value=0, duration=None>
+374.2974 	EXP 	Device response: <KeyPress from None: t=374.2065135000157, value=0, duration=0.08262099997955374>
+374.3964 	DATA 	Keypress: 0
+374.3975 	EXP 	Device response: <KeyPress from None: t=374.3841602000175, value=0, duration=None>
+374.4631 	EXP 	Device response: <KeyPress from None: t=374.3841602000175, value=0, duration=0.07311840000329539>
+375.6129 	DATA 	Mouse: Left button down, pos=(498,158)
+375.6134 	EXP 	New trial (rep=4, index=9): <Trial 57 (9 in rep 4) data={'delay': 0.4, 'freq': 1000, 'Condition': 'exp', 'thisN': 57, 'thisTrialN': 9, 'thisRepN': 4}>
+375.6289 	EXP 	text: autoDraw = False
+375.6289 	EXP 	textbox: autoDraw = False
+375.6289 	EXP 	polygon: autoDraw = True
+375.8476 	DATA 	Mouse:  Left button up, pos=(498,158)
+376.6133 	INFO 	Keyboard events cleared
+376.6131 	EXP 	polygon_2: autoDraw = True
+376.6297 	EXP 	polygon: autoDraw = False
+377.0299 	EXP 	Device response: <KeyPress from None: t=377.0208156000008, value=space, duration=None>
+377.0317 	DATA 	Keypress: space
+377.0460 	EXP 	polygon: autoDraw = False
+377.0460 	EXP 	polygon_2: autoDraw = False
+377.1966 	EXP 	Device response: <KeyPress from None: t=377.0208156000008, value=space, duration=0.1661452999978792>
+377.4129 	EXP 	Sound sound_1 reached end of file
+377.4293 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+377.7222 	EXP 	Sound sound_1 stopped
+377.7447 	EXP 	text: autoDraw = True
+377.7447 	EXP 	textbox: autoDraw = True
+378.8013 	DATA 	Keypress: 2
+378.8119 	EXP 	Device response: <KeyPress from None: t=378.8004504000128, value=2, duration=None>
+378.9456 	EXP 	Device response: <KeyPress from None: t=378.8004504000128, value=2, duration=0.14345209999009967>
+379.2622 	DATA 	Keypress: 0
+379.2636 	EXP 	Device response: <KeyPress from None: t=379.2606539000117, value=0, duration=None>
+379.3619 	EXP 	Device response: <KeyPress from None: t=379.2606539000117, value=0, duration=0.08651319998898543>
+379.4309 	DATA 	Keypress: 0
+379.4456 	EXP 	Device response: <KeyPress from None: t=379.43059830000857, value=0, duration=None>
+379.5295 	EXP 	Device response: <KeyPress from None: t=379.43059830000857, value=0, duration=0.08243360000778921>
+381.2620 	DATA 	Mouse: Left button down, pos=(521,172)
+381.2626 	EXP 	New trial (rep=4, index=10): <Trial 58 (10 in rep 4) data={'delay': 0.1, 'freq': 1000, 'Condition': 'exp', 'thisN': 58, 'thisTrialN': 10, 'thisRepN': 4}>
+381.2793 	EXP 	text: autoDraw = False
+381.2793 	EXP 	textbox: autoDraw = False
+381.2793 	EXP 	polygon: autoDraw = True
+381.4801 	DATA 	Mouse:  Left button up, pos=(521,172)
+382.2622 	INFO 	Keyboard events cleared
+382.2620 	EXP 	polygon_2: autoDraw = True
+382.2792 	EXP 	polygon: autoDraw = False
+384.3121 	EXP 	Device response: <KeyPress from None: t=384.3038021000102, value=space, duration=None>
+384.3136 	DATA 	Keypress: space
+384.3283 	EXP 	polygon: autoDraw = False
+384.3283 	EXP 	polygon_2: autoDraw = False
+384.3953 	EXP 	Sound sound_1 reached end of file
+384.4117 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+384.4956 	EXP 	Device response: <KeyPress from None: t=384.3038021000102, value=space, duration=0.1853279999922961>
+384.7095 	EXP 	Sound sound_1 stopped
+384.7272 	EXP 	text: autoDraw = True
+384.7272 	EXP 	textbox: autoDraw = True
+386.9131 	DATA 	Keypress: 2
+386.9274 	EXP 	Device response: <KeyPress from None: t=386.91075380000984, value=2, duration=None>
+387.0283 	EXP 	Device response: <KeyPress from None: t=386.91075380000984, value=2, duration=0.10978130000876263>
+387.3610 	DATA 	Keypress: 5
+387.3623 	EXP 	Device response: <KeyPress from None: t=387.3593774000183, value=5, duration=None>
+387.5113 	EXP 	Device response: <KeyPress from None: t=387.3593774000183, value=5, duration=0.14129259999026544>
+387.5440 	DATA 	Keypress: 0
+387.5451 	EXP 	Device response: <KeyPress from None: t=387.53551159999915, value=0, duration=None>
+387.6285 	EXP 	Device response: <KeyPress from None: t=387.53551159999915, value=0, duration=0.08711890000267886>
+388.7442 	DATA 	Mouse: Left button down, pos=(502,163)
+388.7446 	EXP 	New trial (rep=4, index=11): <Trial 59 (11 in rep 4) data={'delay': 0.7, 'freq': 1000, 'Condition': 'exp', 'thisN': 59, 'thisTrialN': 11, 'thisRepN': 4}>
+388.7606 	EXP 	text: autoDraw = False
+388.7606 	EXP 	textbox: autoDraw = False
+388.7606 	EXP 	polygon: autoDraw = True
+388.9630 	DATA 	Mouse:  Left button up, pos=(502,163)
+389.7446 	INFO 	Keyboard events cleared
+389.7445 	EXP 	polygon_2: autoDraw = True
+389.7614 	EXP 	polygon: autoDraw = False
+390.9447 	EXP 	Device response: <KeyPress from None: t=390.92976290002116, value=space, duration=None>
+390.9465 	DATA 	Keypress: space
+390.9611 	EXP 	polygon: autoDraw = False
+390.9611 	EXP 	polygon_2: autoDraw = False
+391.1103 	EXP 	Device response: <KeyPress from None: t=390.92976290002116, value=space, duration=0.16853959998115897>
+391.6280 	EXP 	Sound sound_1 reached end of file
+391.6443 	EXP 	Playing sound sound_1 on speaker Speaker (Realtek(R) Audio)
+391.9427 	EXP 	Sound sound_1 stopped
+391.9596 	EXP 	text: autoDraw = True
+391.9596 	EXP 	textbox: autoDraw = True
+393.0106 	DATA 	Keypress: 3
+393.0120 	EXP 	Device response: <KeyPress from None: t=393.00401610002154, value=3, duration=None>
+393.1438 	EXP 	Device response: <KeyPress from None: t=393.00401610002154, value=3, duration=0.1258234999841079>
+393.1768 	DATA 	Keypress: 0
+393.1780 	EXP 	Device response: <KeyPress from None: t=393.1681662000192, value=0, duration=None>
+393.2615 	EXP 	Device response: <KeyPress from None: t=393.1681662000192, value=0, duration=0.09006889999727719>
+393.3605 	DATA 	Keypress: 0
+393.3625 	EXP 	Device response: <KeyPress from None: t=393.35491940000793, value=0, duration=None>
+393.4604 	EXP 	Device response: <KeyPress from None: t=393.35491940000793, value=0, duration=0.08949439998832531>
+394.4605 	DATA 	Mouse: Left button down, pos=(497,150)
+394.4766 	EXP 	text: autoDraw = False
+394.4766 	EXP 	textbox: autoDraw = False
+394.4767 	EXP 	intentional binding: status = STOPPED
+394.5014 	INFO 	saved data to 'C:\\Users\\Navya\\OneDrive\\Desktop\\Lab in Psych\\intentional binding\\data\\p1_intentional binding_2026-11-20_19h45.18.239.csv'
+394.5031 	INFO 	saved data to C:\Users\Navya\OneDrive\Desktop\Lab in Psych\intentional binding\data\p1_intentional binding_2026-11-20_19h45.18.239.psydat
+394.8148 	INFO 	Stopping keyboard key buffers.
